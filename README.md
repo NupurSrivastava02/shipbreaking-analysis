@@ -30,7 +30,10 @@ Multi-year shipbreaking datasets (2014–2024), harmonized into a consistent sch
 | GT | Gross Tonnage |
 | LDT | Lightweight Tonnage |
 | BUILT | Year vessel was constructed |
-| COUNTRY | Scrapping location |
+| COUNTRY | Scrapping location (Country) |
+| PLACE | Scrapping location(City) |
+| YEAR | Scrapping YEAR |
+| LAST FLAG | Country of Last Flag |
 
 ---
 
@@ -53,6 +56,7 @@ Multi-year shipbreaking datasets (2014–2024), harmonized into a consistent sch
 - Majority of scrapping is concentrated in **Bangladesh, India, and Pakistan**.
 - Typical vessels are decommissioned **25–35 years** after construction.
 - Higher **LDT** correlates with later scrapping age, suggesting extended economic viability.
+- Performed linear regression-based imputation to estimate missing Lightweight Tonnage (LDT) values using Gross Tonnage (GT), improving completeness of the dataset for downstream trend and lifecycle analysis.
 
 ---
 
@@ -66,7 +70,7 @@ Multi-year shipbreaking datasets (2014–2024), harmonized into a consistent sch
 ---
 
 ## 📌 Project Status
-Complete — available for review and extension (e.g., adding prediction modeling).
+Complete — available for review and extension.
 
 ---
 
