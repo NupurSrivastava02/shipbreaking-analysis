@@ -1,0 +1,631 @@
+IMO#,NAME,TYPE,GT,LDT,BUILT,LAST FLAG,PREVIOUS FLAG,BENEFICIAL OWNER,BO COUNTRY,COMMERCIAL OPERATOR,REGISTERED OWNER,RO COUNTRY,PLACE,COUNTRY,ARRIVAL,YEAR
+7724253,OTTO,Rail Vehicles Carrier,5309,3605,1978,Cameroon,,Shega-Group SA,Albania,Shega-Group SA,Shega Trans SA,Albania,Aliaga,Turkey,2020-01-01 00:00:00,2020
+7118181,EDARTE,General Cargo Ship,1227,902,1971,Cameroon,,Vital Shipping Co,Albania,Vital Shipping Co,Vital Shipping Co,Albania,Aliaga,Turkey,2020-08-01 00:00:00,2020
+7624037,SOM GOLD,Trailing Suction Hopper Dredger,4284,3703,1979,St Kitts & Nevis,Bahrain,Dream Group WLL,Bahrain,Nass Dredging Co SPC,Nass Dredging Co SPC,Bahrain,Gadani,Pakistan,2020-10-01 00:00:00,2020
+8407280,GRAND ROYAL,Bulk Carrier,22155,6960,1987,Bangladesh,,Mariners Associates CTG Ltd,Bangladesh,Vanguard Maritime Ltd,Vanguard Maritime Ltd,Bangladesh,Chattogram,Bangladesh,2020-05-01 00:00:00,2020
+9077252,CROWN VICTORY,Bulk Carrier,28818,8572,1994,Bangladesh,,Ocean Victory Shipping Lines,Bangladesh,Ocean Victory Shipping Lines,Ocean Victory Shipping Lines,Bangladesh,Chattogram,Bangladesh,2020-12-01 00:00:00,2020
+7816288,PANTAGRUELE,Trailing Suction Hopper Dredger,2570,,1979,Belgium,,DEME Group,Belgium,Decloedt en Zoon NV,Decloedt en Zoon NV,Belgium,Ghent,Belgium,2020-08-01 00:00:00,2020
+8515520,ORWELL,Trailing Suction Hopper Dredger,2598,,1987,Belgium,,DEME Group,Belgium,Decloedt en Zoon NV,Decloedt en Zoon NV,Belgium,Gijon,Spain,2020-09-01 00:00:00,2020
+8113293,BLUE MOON,General Cargo Ship,4018,2002,1983,Togo,,Al Mounir Maritime Co Ltd,Belize,Al Mounir Maritime Co Ltd,Al Mounir Maritime Co Ltd,Belize,Gadani,Pakistan,2020-09-01 00:00:00,2020
+7508300,VERACRUZ,Refrigerated Cargo Ship,3755,2414,1977,Moldova,,Atlantico Ltd,Belize,Atlantico Ltd,Atlantico Ltd,Belize,Alang,India,2020-12-01 00:00:00,2020
+7800306,STAR B,General Cargo Ship,8205,4690,1979,Comoros,,Sky Blue Shipping Co SA,Belize,Sky Blue Shipping Co SA,Sky Blue Shipping Co SA,Belize,Gadani,Pakistan,2020-10-01 00:00:00,2020
+9201695,BERGE EIGER,Bulk Carrier,83849,20251,2000,Isle Of Man,,Berge Bulk Ltd,Bermuda,Berge Bulk Maritime Pte Ltd,Berge Eiger Co Inc,Marshall Islands,Chattogram,Bangladesh,2020-03-01 00:00:00,2020
+9223590,BERGE AORAKI,Bulk Carrier,87322,21221,2000,Isle Of Man,,Berge Bulk Ltd,Bermuda,Berge Bulk Maritime Pte Ltd,Berge Aoraki Co SA,Panama,Chattogram,Bangladesh,2020-03-01 00:00:00,2020
+9112090,BERGE ENTERPRISE,Bulk Carrier,108083,25285,1997,Isle Of Man,,Berge Bulk Ltd,Bermuda,Berge Bulk Maritime Pte Ltd,SG Enterprise Co SA,Panama,Chattogram,Bangladesh,2020-02-01 00:00:00,2020
+9036442,KIBO,Ore Carrier,155823,37363,1993,St Kitts & Nevis,Isle of Man,Berge Bulk Ltd,Bermuda,Berge Bulk Maritime Pte Ltd,BC Prosperity Co SA,Panama,Gadani,Pakistan,2020-12-01 00:00:00,2020
+8902424,BERGE ELBRUS,Ore Carrier,155626,38047,1991,Panama,,Berge Bulk Ltd,Bermuda,Berge Bulk Maritime Pte Ltd,Marsnow Co SA,Panama,Chattogram,Bangladesh,2020-01-01 00:00:00,2020
+9035450,BERGE HUA SHAN,Ore Carrier,150170,40393,1993,Isle Of Man,,Berge Bulk Ltd,Bermuda,Berge Bulk Maritime Pte Ltd,Berge Hua Shan Co SA,Panama,Chattogram,Bangladesh,2020-01-01 00:00:00,2020
+7347433,MSS2,"Drilling Rig, semi Submersible",10958,,1977,Cameroon,Liberia,Borr Drilling Ltd,Bermuda,PETROBRAS,Paragon Drilling Services 7,United States Of America,Aliaga,Turkey,2020-02-01 00:00:00,2020
+8752790,MSS1,"Drilling Rig, semi Submersible",20067,18553,1981,Liberia,,Borr Drilling Ltd,Bermuda,TAQA Global,Paragon Asset Co Ltd,Cayman Islands,Aliaga,Turkey,2020-09-01 00:00:00,2020
+7920508,PETROJARL CIDADE DE RIO DAS OSTRAS,"FPSO, Oil",26940,13610,1981,Panama,Bahamas,Altera Infrastructure,Bermuda,PETROBRAS,TPO Siri LLC,Marshall Islands,Alang,India,2020-04-01 00:00:00,2020
+9197715,NAVION BERGEN,Shuttle Tanker,56734,17195,2000,Panama,Bahamas,Altera Infrastructure,Bermuda,TRANSPETRO,Unknown,Unknown,Alang,India,2020-08-01 00:00:00,2020
+9168922,NAVION HISPANIA,Shuttle Tanker,72132,26653,1999,Bahamas,,Altera Infrastructure,Bermuda,Altera Infrastructure Norway,Altera Shuttle Loading Pte Ltd,Singapore,Aliaga,Turkey,2020-01-01 00:00:00,2020
+7390739,APOLLO SPIRIT,"FSO, Oil",89421,32083,1983,Liberia,,Altera Infrastructure,Bermuda,Altera Infrastructure Norway,Apollo Spirit KS,Norway,Aliaga,Turkey,2020-12-01 00:00:00,2020
+9056399,CRATEUS,Bulk Carrier,26174,8900,1997,Liberia,Brazil,Companhia de Navegacao Norsul,Brazil,Norwest Navigation SCS,Norwest Navigation SCS,Luxembourg,Chattogram,Bangladesh,2020-03-01 00:00:00,2020
+8506438,GURU,LPG Tanker,8075,5064,1987,Gabon,Brazil,PETROBRAS,Brazil,TRANSPETRO,TRANSPETRO,Brazil,Alang,India,2020-11-01 00:00:00,2020
+8506426,GRAJA,LPG Tanker,8075,5073,1987,Gabon,Brazil,PETROBRAS,Brazil,TRANSPETRO,TRANSPETRO,Brazil,Alang,India,2020-10-01 00:00:00,2020
+8516897,GURU I,LPG Tanker,8075,5080,1987,Gabon,Brazil,PETROBRAS,Brazil,TRANSPETRO,TRANSPETRO,Brazil,Alang,India,2020-11-01 00:00:00,2020
+7801702,ILY,Products Tanker,13474,6002,1980,St Kitts & Nevis,Brazil,PETROBRAS,Brazil,TRANSPETRO,TRANSPETRO,Brazil,Gadani,Pakistan,2020-10-01 00:00:00,2020
+7801764,NUSA,Products Tanker,13474,6009,1982,Gabon,Brazil,PETROBRAS,Brazil,TRANSPETRO,TRANSPETRO,Brazil,Chattogram,Bangladesh,2020-12-01 00:00:00,2020
+7801740,MARLO,Products Tanker,13474,6027,1982,Comoros,Brazil,PETROBRAS,Brazil,TRANSPETRO,TRANSPETRO,Brazil,Alang,India,2020-12-01 00:00:00,2020
+7801697,DIV,Products Tanker,13474,6029,1980,St Kitts & Nevis,Brazil,PETROBRAS,Brazil,TRANSPETRO,TRANSPETRO,Brazil,Alang,India,2020-05-01 00:00:00,2020
+7801714,MASA,Products Tanker,13474,6073,1980,Gabon,Brazil,PETROBRAS,Brazil,TRANSPETRO,TRANSPETRO,Brazil,Chattogram,Bangladesh,2020-10-01 00:00:00,2020
+8617108,LIV,Products Tanker,25803,9420,1997,St Kitts & Nevis,Brazil,PETROBRAS,Brazil,TRANSPETRO,TRANSPETRO,Brazil,Gadani,Pakistan,2020-11-01 00:00:00,2020
+7902233,SAL,"Bulk Carrier, Self-discharging, Laker",21870,11868,1980,St Kitts & Nevis,Canada,CSL Group Inc,Canada,CSL Group Inc,CSL Group Inc,Canada,Aliaga,Turkey,2020-12-01 00:00:00,2020
+8131233,BURIN SEA,Anchor Handling Tug Supply,2588,2608,1983,Canada,,Secunda Canada LP,Canada,Secunda Canada LP,3260812 Nova Scotia Ltd,Canada,Aliaga,Turkey,2020-01-01 00:00:00,2020
+8225486,TRINITY SEA,Anchor Handling Tug Supply,2623,2608,1983,Canada,,Secunda Canada LP,Canada,Secunda Canada LP,3260818 Nova Scotia Ltd,Canada,Aliaga,Turkey,2020-01-01 00:00:00,2020
+7627962,ANGELIS,Passenger/Ro-Ro Ship (Vehicles),9951,4258,1978,St Kitts & Nevis,Chile,Nisa Navegacion SA,Chile,Navimag Ferries SA,Navimag Ferries SA,Chile,Alang,India,2020-12-01 00:00:00,2020
+9170664,QING,Bulk Carrier,17784,7289,1998,Palau,Panama,China COSCO Shipping Corp Ltd,China,China COSCO Shipping Corp Ltd,COSCO GUANGZHOU,China,Chattogram,Bangladesh,2020-11-01 00:00:00,2020
+8712312,FU YUAN YU 7779,Fishing Vessel,608,,1987,China,,Fujian Yaoxiang Marine,China,Fujian Yaoxiang Marine,Fujian Yaoxiang Marine,China,Unknown,China,2020-01-01 00:00:00,2020
+9033464,FU YUAN YU 7778,Fishing Vessel,615,954,1991,China,,Fujian Yaoxiang Marine,China,Fujian Yaoxiang Marine,Fujian Yaoxiang Marine,China,Unknown,China,2020-01-01 00:00:00,2020
+9074810,WEI KANG,Open Hatch Cargo Ship,25676,9016,1995,Panama,,Hongyuan Marine Co Ltd,China,Hongyuan Marine Co Ltd,Hongyuan Marine Co Ltd,China  ,Gadani,Pakistan,2020-08-01 00:00:00,2020
+9131230,ING 1,General Cargo Ship,28148,11845,1998,St Kitts & Nevis,Panama,Hongyuan Marine Co Ltd,China,Hongyuan Marine Co Ltd,Hongyuan Marine Co Ltd,China,Alang,India,2020-12-01 00:00:00,2020
+8801022,NINGBO,Bulk Carrier,37519,10244,1990,Palau,Hong Kong ,Ningbo Marine Group Co Ltd,China,Ningbo Marine Singapore,Ningbo Pioneer Shipping Co Ltd,Hong Kong,Chattogram,Bangladesh,2020-10-01 00:00:00,2020
+9231121,YU RONG,General Cargo Ship,23132,11838,2002,Liberia,,"Qingfeng Huang, Xiaohua Chen & Yu Xia",China,Sea Ray Shipping Co Ltd,Yu Rong Shipping Co Ltd,Marshall Islands,Chattogram,Bangladesh,2020-09-01 00:00:00,2020
+9125243,TAIHUA SPIRIT,Chemical/Products Tanker,9383,5677,1997,Panama,,Taihua Ship Management Limited ,China,Sino Marine Services Ltd,Sino Marine Services Ltd,United Kingdom,Alang,India,2020-12-01 00:00:00,2020
+8693176,ZHONG SHUN,General Cargo Ship,4931,,2006,Belize,,Xiamen Cheng Gong Shipping Co ,China,Xiamen Cheng Gong Shipping Co ,Xiamen Cheng Gong Shipping Co ,China,Unknown,China,2020-02-01 00:00:00,2020
+8920103,SEA HERO,Bulk Carrier,13706,5017,1990,Panama,,Zhangjiagang Oceanicwit Shipping Company Limited,China,Wuhan Yidong Shipping Mgmt,Sea Hero Shipping Ltd,Marshall Islands,Chattogram,Bangladesh,2020-09-01 00:00:00,2020
+7370868,NANHAI SHENGKAI,"FSO, Oil",62041,21481,1975,Gabon,Liberia,China National Offshore Oil,China ,CNOOC China Ltd,CNOOC FPSO Holding Ltd,Liberia,Chattogram,Bangladesh,2020-07-01 00:00:00,2020
+9039547,KAI YUE,General Cargo Ship,27225,10672,1992,Mongolia,,Hongyuan Marine Co Ltd,China ,Universal Ship Mgmt Shanghai,Kai Yue Shipping Co Ltd,Hong Kong ,Gadani,Pakistan,2020-08-01 00:00:00,2020
+8313348,XIU HAI,Bulk Carrier,25865,10256,1987,China  ,,Changjiang National Shipping,China  ,Chang Jiang Shipping Group,Minsheng Financial Leasing Co,China  ,Jiangyin,China  ,2020-04-01 00:00:00,2020
+8313362,LING HAI,Bulk Carrier,25865,10289,1987,China  ,,Changjiang National Shipping,China  ,Chang Jiang New Phoenix,Chang Jiang New Phoenix,China  ,Zhoushan,China  ,2020-09-01 00:00:00,2020
+9067465,TAI SHAN,Passenger Ship,560,110,1993,China  ,,China Merchants Group Ltd,China  ,Shenzhen Xunlong Shipping Ltd,Shenzhen Xunlong Shipping Ltd,China  ,Unknown,China  ,2020-07-01 00:00:00,2020
+8415445,NAN HAI 210,Platform Supply Ship,1405,1376,1986,China  ,,China National Offshore Oil,China  ,China Oilfield Services Ltd,China Oilfield Services Ltd,China  ,Unknown,China  ,2020-07-01 00:00:00,2020
+9014406,LUCKY SEAMAN,Bulk Carrier,15884,5743,1991,Panama,,Fujian Yongjia Shipping Co Ltd,China  ,Fujian Yongjia Shipping Co Ltd,Syslink Holdings Ltd,British Virgin Islands,Chattogram,Bangladesh,2020-11-01 00:00:00,2020
+8716332,XIN JING HAI,Bulk Carrier,36983,10409,1988,China  ,,Guangdong Yudean Group Co Ltd,China  ,Guangdong Haidian Shpg Co Ltd,Guangdong Haidian Shpg Co Ltd,China  ,Jiangmen,China  ,2020-07-01 00:00:00,2020
+7623928,DISCOVERER,Research Survey Vessel,2747,2206,1980,Bahamas,,Sinopec Offshore Oilfield Serv,China  ,Sinopec Offshore Oilfield Serv,Sinopec Offshore Oilfield Serv,China  ,Chattogram,Bangladesh,2020-06-01 00:00:00,2020
+7378030,JIN HANG JUN 109,Trailing Suction Hopper Dredger,6554,5270,1975,China  ,,CCCC Tianjin Dredging Co Ltd,China   ,CCCC-TDC Binhai Environmental,CCCC-TDC Binhai Environmental,China  ,Unknown,China  ,2020-01-01 00:00:00,2020
+8416580,HUA WEI 7,Chemical/Products Tanker,4565,2371,1985,Mongolia,,China COSCO Shipping Corp Ltd,China   ,China Shipping Haisheng Co Ltd,Shanghai Maritime Enterprises,China  ,Gadani,Pakistan,2020-01-01 00:00:00,2020
+9360403,LANWAN,Asphalt/Bitumen Tanker,5530,3244,2007,Comoros,Hong Kong ,China COSCO Shipping Corp Ltd,China   ,COSCO Shipping Specialized,Mulanwan Maritime Co Ltd,Hong Kong ,Alang,India,2020-03-01 00:00:00,2020
+9183764,LE JIN,General Cargo Ship,15542,7362,1999,China  ,,China COSCO Shipping Corp Ltd,China   ,COSCO Shipping Specialized,COSCO GUANGZHOU,China  ,Unknown,China  ,2020-04-01 00:00:00,2020
+9175444,LE TONG,General Cargo Ship,15589,7364,2000,China  ,,China COSCO Shipping Corp Ltd,China   ,COSCO Shipping Specialized,COSCO GUANGZHOU,China  ,Unknown,China  ,2020-03-01 00:00:00,2020
+9175420,LE MIN,General Cargo Ship,15589,7380,1999,China  ,,China COSCO Shipping Corp Ltd,China   ,COSCO Shipping Specialized,COSCO Shipping Specialized,China  ,Unknown,China  ,2020-02-01 00:00:00,2020
+9127954,RUI CHANG HAI,Bulk Carrier,18070,7474,1997,China  ,,China COSCO Shipping Corp Ltd,China   ,COSCO Far-Reaching Shpg Co Ltd,COSCO GUANGZHOU,China  ,Unknown,China  ,2020-03-01 00:00:00,2020
+9127942,XI CHANG HAI,Bulk Carrier,18070,7487,1997,China  ,,China COSCO Shipping Corp Ltd,China   ,COSCO Shipping Specialized,COSCO QUANZHOU,China  ,Unknown,China  ,2020-05-01 00:00:00,2020
+8219671,BIN HAI 263,Anchor Handling Tug Supply,1197,,1985,China  ,,China National Offshore Oil,China   ,China Oilfield Services Ltd,China Oilfield Services Ltd,China  ,Unknown,China  ,2020-01-01 00:00:00,2020
+7365447,NAN HAI,"FPSO, Oil",127295,42956,1976,St Kitts & Nevis,Liberia,China National Offshore Oil,China   ,CACT Operators Group,CNOOC FPSO Holding Ltd,Liberia,Chattogram,Bangladesh,2020-02-01 00:00:00,2020
+8500460,JIN XING,Bulk Carrier,13898,5353,1985,Panama,,Fu Long Marine Shipping Company Limited,China   ,Fu Long Marine Shipping Co Ltd,Rongxing Marine Shipping,Marshall Islands,Chattogram,Bangladesh,2020-01-01 00:00:00,2020
+9086966,YU HUA,Bulk Carrier,26040,7636,1994,Panama,,Hongshuang Su,China   ,Dragon Wealth Shipping Ltd,Panocean Shipping Ltd,Hong Kong ,Chattogram,Bangladesh,2020-03-01 00:00:00,2020
+9495208,PHOENIX,Anchor Handling Tug Supply,7534,6698,2013,Niue,Marshall Islands,ICBC,China   ,Go Offshore Pty Ltd,Hai Jiao 1207 Ltd,Marshall Islands,Alang,India,2020-03-01 00:00:00,2020
+9051739,HAN FENG,General Cargo Ship,5782,3753,1992,Hong Kong ,,JOSCO,China   ,JOSCO Yuansheng Shipping,Good Fortune Heavylift Shpg,Hong Kong ,Chattogram,Bangladesh,2020-08-01 00:00:00,2020
+8914051,UNI GLORY,Wood Chips Carrier,39023,9264,1991,Panama,,Qingdao Fulon International Ship Management Company Limited,China   ,HW Ship Management Co Ltd,United Osco Ltd,Hong Kong ,Chattogram,Bangladesh,2020-02-01 00:00:00,2020
+9004712,UNI HARVEST,Wood Chips Carrier,38654,9500,1991,Panama,,Qingdao Fulon International Ship Management Company Limited,China   ,HW Ship Management Co Ltd,United Glory Carriers Ltd,Hong Kong ,Chattogram,Bangladesh,2020-02-01 00:00:00,2020
+8878867,CHANG HAI,General Cargo Ship,4061,,1995,China  ,Liberia,Shanghai Changjiang Shipping,China   ,Shanghai CSC Line Co Ltd,Shanghai Changjiang Shipping,China  ,Unknown,China  ,2020-01-01 00:00:00,2020
+8822038,YU FENG,Training Ship,9305,,1992,China  ,,Shanghai Yuhai Shipping Co,China   ,Shanghai Yuhai Shipping Co,Shanghai Yuhai Shipping Co,China  ,Unknown,China  ,2020-02-01 00:00:00,2020
+9002609,LEO RIVER,"FSO, Oil",158475,40970,1993,Comoros,Panama,SINOTRANS,China   ,Atlas Energy Solutions Ltd,Atlas Energy Solutions Ltd,Hong Kong ,Alang,India,2020-03-01 00:00:00,2020
+7342263,MANDALINA,Yacht,885,600,1975,Sierra Leone,Croatia,Brodospas dd,Croatia,Brodospas dd,Croatia Shipping Ltd,Croatia,Aliaga,Turkey,2020-04-01 00:00:00,2020
+7342677,UZORITA,Yacht,885,962,1975,Sierra Leone,Croatia,Brodospas dd,Croatia,Brodospas dd,Brodospas dd,Croatia,Aliaga,Turkey,2020-04-01 00:00:00,2020
+9216602,SUPERTRAMP,General Cargo Ship,16807,7230,2001,Marshall Islands,,Korkyra Shipping Ltd,Croatia,Korkyra Shipping Ltd,Mandraki Shipping & Trading,Marshall Islands,Chattogram,Bangladesh,2020-02-01 00:00:00,2020
+9176113,CAPE STEFANIE,Bulk Carrier,87473,21221,1999,Comoros,Cyprus,Andreas Hadjiyiannis,Cyprus,Cyprus Sea Lines Co Ltd-LIB,CP Stefanie SA,Marshall Islands,Chattogram,Bangladesh,2020-03-01 00:00:00,2020
+8914702,TOS,Bulk Carrier,22147,7233,1991,Palau,Cyprus,Antonis Economides & Christos Tasou Kotsabopoulos,Cyprus,Oldendorff Carriers GmbH & Co,Amfitriti Marine,Cyprus,Gadani,Pakistan,2020-09-01 00:00:00,2020
+8800315,USOLIE,Bulk Carrier,37519,10243,1990,Liberia,,Harvester Shipmanagement Ltd,Cyprus,Harvester Shipmanagement Ltd,Trident E Shipping SA,Liberia,Chattogram,Bangladesh,2020-03-01 00:00:00,2020
+9127124,ALICE,Bulk Carrier,85616,20536,1997,Liberia,Cyprus,Laredo Marine SA,Cyprus,Laredo Marine SA,Laredo Marine SA,Marshall Islands,Chattogram,Bangladesh,2020-02-01 00:00:00,2020
+9134220,LILA PORTO,Bulk Carrier,85350,21062,1996,Liberia,Marshall Islands,Laredo Marine SA,Cyprus,Parker Maritime SA,Parker Maritime SA,Marshall Islands,Chattogram,Bangladesh,2020-12-01 00:00:00,2020
+9111917,VICTOR,Bulk Carrier,87799,21221,1996,Marshall Islands,Cyprus,Laredo Marine SA,Cyprus,Laredo Marine SA,Laredo Marine SA,Marshall Islands,Chattogram,Bangladesh,2020-02-01 00:00:00,2020
+8401200,PORTLAND,Bulk Carrier,17999,6895,1985,Palau,,Portland Shipping,Cyprus,Feng Sea Shipping Pte Ltd,Portland Shipping,Cyprus,Chattogram,Bangladesh,2020-08-01 00:00:00,2020
+8755077,SAFE BRISTOLIA,"Accommodation Platform, semi submersible",13876,9834,1983,Unknown,Singapore,Prosafe SE,Cyprus,Prosafe Offshore Pte Ltd,Prosafe Offshore Pte Ltd,Singapore,Aliaga,Turkey,2020-04-01 00:00:00,2020
+7807380,HARRIER EXPLORER,Research Survey Vessel,4009,,1979,Panama,,SeaBird Exploration PLC,Cyprus,SeaBird Exploration Norway AS,Harrier Navigation Co Ltd,Cyprus,Ghent,Belgium,2020-12-01 00:00:00,2020
+8416906,OSPREY EXPLORER,Research Survey Vessel,3517,1957,1985,Cyprus,,SeaBird Exploration PLC,Cyprus,SeaBird Exploration Norway AS,Osprey Navigation Co Inc,Panama,Ghent,Belgium,2020-04-01 00:00:00,2020
+8309402,MOBILE PEARL,Open Hatch Cargo Ship,27962,10329,1984,Bahamas,,SMT Shipping Cyprus Ltd,Cyprus,SMT Shipping Cyprus Ltd,Mobile Pearl Shipping Co Ltd,Marshall Islands,Alang,India,2020-07-01 00:00:00,2020
+8309713,SANTIAGO PEARL,Open Hatch Cargo Ship,27818,10970,1985,Bahamas,,SMT Shipping Cyprus Ltd,Cyprus,SMT Shipping Cyprus Ltd,Santiago Pearl Shipping Co Ltd,Marshall Islands,Alang,India,2020-06-01 00:00:00,2020
+8316699,SAVANNAH PEARL,Open Hatch Cargo Ship,27824,10979,1985,Bahamas,,SMT Shipping Cyprus Ltd,Cyprus,SMT Shipping Cyprus Ltd,Savannah Pearl Shipping Co Ltd,Marshall Islands,Alang,India,2020-06-01 00:00:00,2020
+8512982,PACIFIC PEARL,Open Hatch Cargo Ship,28805,11054,1987,Bahamas,,SMT Shipping Cyprus Ltd,Cyprus,SMT Shipping Cyprus Ltd,Pacpearl Shipping Co Ltd,Marshall Islands,Alang,India,2020-07-01 00:00:00,2020
+8401949,IRON MAN,Anchor Handling Tug Supply,2887,,1985,Panama,Denmark (DIS),Blue Star Line A/S,Denmark,Blue Star Line A/S,Blue Star Line A/S,Denmark,Alang,India,2020-03-01 00:00:00,2020
+9198044,ESVAGT CONNECTOR,Standby Safety Vessel,1890,1671,2000,Denmark (Dis),,Esvagt A/S,Denmark,Esvagt A/S,Esvagt A/S,Denmark,Grenaa,Denmark,2020-11-01 00:00:00,2020
+8819976,MCC HA LONG,Container Ship (Fully Cellular),16982,7480,1991,Gabon,Hong Kong,Moller AP,Denmark,Sealand Maersk Asia Pte Ltd,Maersk Shipping Hong Kong Ltd,Hong Kong,Alang,India,2020-08-01 00:00:00,2020
+8819988,TOVE MAERSK,Container Ship (Fully Cellular),16982,7480,1992,Gabon,Hong Kong,Moller AP,Denmark,Sealand Maersk Asia Pte Ltd,Maersk Shipping Hong Kong Ltd,Hong Kong,Alang,India,2020-07-01 00:00:00,2020
+8819990,MCC MERGUI,Container Ship (Fully Cellular),16982,7480,1992,Gabon,Hong Kong,Moller AP,Denmark,Sealand Maersk Asia Pte Ltd,Maersk Shipping Hong Kong Ltd,Hong Kong,Alang,India,2020-09-01 00:00:00,2020
+9146455,SINE MAERSK,Container Ship (Fully Cellular),92198,38691,1998,Denmark (Dis),,Moller AP,Denmark,Maersk A/S,Maersk A/S,Denmark,Aliaga,Turkey,2020-06-01 00:00:00,2020
+8422723,ODIN R,Suction Dredger,2081,2440,1984,Cyprus,,Rohde Nielsen A/S,Denmark,Rohde Nielsen A/S,RN Shipping A/S,Denmark,Grenaa,Denmark,2020-04-01 00:00:00,2020
+8510972,GRETHE HVIID,Fishing Vessel,630,,1986,Denmark,,Schmidt PT,Denmark,Schmidt PT,"Schmidt D,P&R & Christensen P",Denmark,Grenaa,Denmark,2020-12-01 00:00:00,2020
+8312071,UNI-BROTHERS,Bulk Carrier,17065,6388,1984,Sierra Leone,,Cem Shipping Company Limited,Egypt,Cem Shipping Co,Cem Shipping Co,Marshall Islands,Gadani,Pakistan,2020-08-01 00:00:00,2020
+9118290,LEEN,General Cargo Ship,4150,2821,1998,Comoros,,El Amira Navigation,Egypt,El-Amira for Maritime Agencies,Die Prinzessin Shipping Co,Panama,Gadani,Pakistan,2020-09-01 00:00:00,2020
+8914245,NAVIGATOR B,Bulk Carrier,16725,5993,1990,Comoros,Tuvalu,Jamal Ismail,Egypt,Dream El Helm Shipping Co SAE,Shipping World 2000 Co SA,Liberia,Gadani,Pakistan,2020-07-01 00:00:00,2020
+8310932,MARIDIVE XI,Anchor Handling Tug Supply,689,791,1984,Egypt,,Maridive & Oil Services SAE,Egypt,Maridive & Oil Services SAE,Maridive & Oil Services SAE,Egypt,Tor,Egypt,2020-04-01 00:00:00,2020
+8212142,MARIDIVE 87,Anchor Handling Tug Supply,1155,1690,1984,Egypt,,Maridive & Oil Services SAE,Egypt,Maridive & Oil Services SAE,Maridive & Oil Services SAE,Egypt,Vasilikos,Cyprus,2020-04-01 00:00:00,2020
+8705618,AL NABILA 5,Products Tanker,18106,9185,1993,Egypt,,Pyramid Navigation Co ESA,Egypt,International Marine Mgmt Co,Pyramid Navigation Co ESA,Egypt,Gadani,Pakistan,2020-09-01 00:00:00,2020
+8606018,TRIAS,"General Cargo Barge, non propelled",4744,1855,1987,Estonia,,Raduga Shipping Investments OU,Estonia,Raduga Shipping Investments OU,Raduga Shipping Investments OU,Estonia,Liepāja,Latvia,2020-03-01 00:00:00,2020
+7362524,ELDBORG,Fishing Vessel,1403,,1974,Estonia,,Reyktal,Estonia,Reyktal,Reyktal,Estonia,Ghent,Belgium,2020-08-01 00:00:00,2020
+9260287,VIKING,Platform Supply Ship,2400,,2003,St Kitts & Nevis,St Vincent & The Grenadines,Bourbon Corp SA,France,Bourbon Offshore Greenmar Ltd,Bourbon Ships AS,Norway,Alang,India,2020-12-01 00:00:00,2020
+9239745,LUIANA A,Platform Supply Ship,2001,1567,2001,Panama,St Vincent & The Grenadines,Bourbon Corp SA,France,Bourbon Offshore Surf SAS,Mastshipping Lda,Portugal,Alang,India,2020-11-01 00:00:00,2020
+9175652,ULYSSE,Anchor Handling Tug Supply,2341,2481,1998,St Kitts & Nevis,France,Bourbon Corp SA,France,Bourbon Offshore Surf SAS,Bourbon Supply Investissements,France,Alang,India,2020-12-01 00:00:00,2020
+9189160,CMA CGM OKAPI,Container Ship (Fully Cellular),16803,7850,2000,Bahamas,,CMA CGM SA The French Line,France,CMA CGM SA The French Line,CMA CGM SA The French Line,France,Aliaga,Turkey,2020-06-01 00:00:00,2020
+9244544,ZEA,General Cargo Ship,23119,12140,2003,St Kitts & Nevis,,ATLANTIC Gesellschaft mbH,Germany,Rickmers-Linie,Rickmers Shanghai Schiffahrts,Germany,Alang,India,2020-05-01 00:00:00,2020
+9235995,KYO,General Cargo Ship,23119,12722,2002,Comoros,Germany,ATLANTIC Gesellschaft mbH,Germany,Rickmers-Linie,Rickmers Tokyo Schiffahrts,Germany,Alang,India,2020-07-01 00:00:00,2020
+8802002,MARINE BAY,Refrigerated Cargo Ship,12887,7932,1990,Gabon,Liberia,Horn-Linie GmbH & Co,Germany,Horn-Linie GmbH & Co,Horncliff Shipping Corp,Cayman Islands,Alang,India,2020-11-01 00:00:00,2020
+9221061,RT ODIN,Container Ship (Fully Cellular),15988,7410,2001,Marshall Islands,,Konig & Cie GmbH & Co KG,Germany,Konig & Cie GmbH & Co KG,RT Odin Ltd,Marshall Islands,Chattogram,Bangladesh,2020-05-01 00:00:00,2020
+9225433,EGA,Container Ship (Fully Cellular),23722,10590,2001,St Kitts & Nevis,,MPC group of companies,Germany,Maersk A/S,AS Vega GmbH & Co KG,Germany,Alang,India,2020-06-01 00:00:00,2020
+9214525,LILA ATHENS,Container Ship (Fully Cellular),20624,9338,2000,Liberia,,Schulte Group,Germany,Hanseatic Unity Chartering HU,Mary Schifffahrtsgesellschaft,Liberia,Gadani,Pakistan,2020-10-01 00:00:00,2020
+9014688,CLAVIGO,General Cargo Ship,2446,1010,1992,Antigua & Barbuda,,Wessels Reederei GmbH & Co KG,Germany,Wessels Reederei GmbH & Co KG,Clavigo,Germany,Aliaga,Turkey,2020-04-01 00:00:00,2020
+9238818,HAMBURG,General Cargo Ship,23119,12254,2002,St Kitts & Nevis,,ZEABORN Ship Management,Germany,ZEABORN Ship Management,Triplezea Shipping Corp,Marshall Islands,Alang,India,2020-06-01 00:00:00,2020
+9292010,JAKARTA,General Cargo Ship,23119,12722,2003,St Kitts & Nevis,,ZEABORN Ship Management,Germany,ZEABORN Ship Management,Triplezea Shipping Corp,Marshall Islands,Alang,India,2020-06-01 00:00:00,2020
+9211169,PUSAN,Container Ship (Fully Cellular),66289,24702,2000,Liberia,,ZEABORN Ship Management,Germany,Zim Integrated Shipping Servs,Fortyseventh Phoenix Shipping,Liberia,Alang,India,2020-06-01 00:00:00,2020
+9208021,SEOUL,Container Ship (Fully Cellular),66289,24718,2000,Liberia,,ZEABORN Ship Management,Germany,Hapag-Lloyd AG,ER Seoul Schiffahrts,Germany,Alang,India,2020-07-01 00:00:00,2020
+9213571,E. R. AMSTERDAM,Container Ship (Fully Cellular),66289,24882,2000,Liberia,,ZEABORN Ship Management,Germany,Pendulum Express Lines,Fourth Nordcap Shipping Inc,Liberia,Alang,India,2020-07-01 00:00:00,2020
+6513231,GRIGOR,Chemical/Products Tanker,525,,1965,Palau,Unknown,Acheloos Naftiki Eteria ,Greece,Contralto Shiptrade Corp,Contralto Shiptrade Corp,Marshall Islands,Aliaga,Turkey,2020-02-01 00:00:00,2020
+9233703,RIA,Bulk Carrier,86201,22505,2001,Palau,Greece,Alpha Bulkers Shipmanagement,Greece,Alpha Bulkers Shipmanagement,Jade Navigation SA,Liberia,Chattogram,Bangladesh,2020-03-01 00:00:00,2020
+7731452,EXPLO,Products Tanker ,525,416,1944,Palau,,Anemoesa NE,Greece,Contralto Shiptrade Corp,Contralto Shiptrade Corp,Marshall Islands,Aliaga,Turkey,2020-02-01 00:00:00,2020
+9004786,GELA,Ore Carrier,154532,38611,1992,Comoros,Greece,Angelicoussis Group,Greece,Maran Dry Management Inc,Sea Violet Carriers SA,Greece,Chattogram,Bangladesh,2020-10-01 00:00:00,2020
+9174218,GEMA,Crude Oil Tanker,160036,40711,1999,Comoros,Greece,Angelicoussis Group,Greece,Maran Tankers Management Inc,Suri Maritime Inc,Marshall Islands,Chattogram,Bangladesh,2020-12-01 00:00:00,2020
+8916255,BAHIA DAMAS,Chemical Tanker,19081,7306,1991,Panama,,Belavero Maritime Co,Greece,Belavero Maritime Co,Belavero Co Ltd,Belize,Gadani,Pakistan,2020-08-01 00:00:00,2020
+8028682,MF ROSE,General Cargo Ship,4369,2382,1981,Togo,,Blue Waves Shipping Limited,Greece,Blue Waves Shipping Ltd,Blue Waves Shipping Ltd,Marshall Islands,Alang,India,2020-12-01 00:00:00,2020
+9111486,ZAGORA,Container Ship (Fully Cellular),10795,3735,1995,Liberia,,Costamare Inc,Greece,MSC Mediterranean Shipping Co,Idris Shipping Co,Liberia,Alang,India,2020-09-01 00:00:00,2020
+9202479,NEAPOLI,Container Ship (Fully Cellular),17167,7329,2000,St Kitts & Nevis,Liberia,Costamare Inc,Greece,Evergreen Marine Corp,Finch Shipping Co,Liberia,Alang,India,2020-02-01 00:00:00,2020
+9200809,SINGAPORE EXPRESS,Container Ship (Fully Cellular),54401,20175,2000,Hong Kong ,,Costamare Inc,Greece,Hapag-Lloyd AG,Takoulis Maritime Corp,Liberia,Alang,India,2020-09-01 00:00:00,2020
+9107887,KAWASAKI,Container Ship (Fully Cellular),81488,34300,1997,Liberia,,Costamare Inc,Greece,Costamare Shipping Co SA,Montes Shipping Co,Greece,Alang,India,2020-06-01 00:00:00,2020
+9085560,KOKURA,Container Ship (Fully Cellular),81488,34318,1997,Liberia,,Costamare Inc,Greece,Maersk A/S,Mas Shipping Co,Greece,Alang,India,2020-06-01 00:00:00,2020
+9113551,PRATO,Crude/Oil Products Tanker,25202,8948,1996,Liberia,,Delfi SA,Greece,Delfi SA,Mazarine Shipping Corp,Liberia,Alang,India,2020-03-01 00:00:00,2020
+9225809,ORFEUS,Bulk Carrier,85957,23954,2002,Comoros,Cyprus,Diana Shipping Inc,Greece,SwissMarine Services SA,Silver Chandra Shipping Co Ltd,Cyprus,Chattogram,Bangladesh,2020-04-01 00:00:00,2020
+8901925,GRAN,Container Ship (Fully Cellular),9601,5645,1992,St Kitts & Nevis,Liberia,Element Shipmanagement SA,Greece,MSC Mediterranean Shipping Co,Ariel Maritime Co,Liberia,Alang,India,2020-06-01 00:00:00,2020
+6517005,ANASTASIA III,General Cargo Ship,1286,782,1965,Greece,,Esperides Naftiki Eteria,Greece,Esperides Naftiki Eteria,Esperides Naftiki Eteria,Greece,Aliaga,Turkey,2020-08-01 00:00:00,2020
+9055448,KUO HSIUNG,Container Ship (Fully Cellular),15183,5915,1993,Panama,,Eurobulk Ltd,Greece,New Golden Sea Shipping,Allendale Investments,Panama,Gadani,Pakistan,2020-07-01 00:00:00,2020
+8909082,NINOS,Container Ship (Fully Cellular),15122,5933,1990,Panama,,Eurobulk Ltd,Greece,New Golden Sea Shipping,Alterwall Business,Panama,Chattogram,Bangladesh,2020-09-01 00:00:00,2020
+9101493,MANOLIS P,Container Ship (Fully Cellular),14962,6890,1995,Marshall Islands,,Eurobulk Ltd,Greece,MSC Mediterranean Shipping Co,Manolis Shipping Ltd,Marshall Islands,Gadani,Pakistan,2020-07-01 00:00:00,2020
+9203514,EM OINOUSSES,Container Ship (Fully Cellular),25294,11440,2000,Marshall Islands,,Eurobulk Ltd,Greece,Maersk A/S,Oinousses Navigation Ltd,Marshall Islands,Gadani,Pakistan,2020-07-01 00:00:00,2020
+9218117,HOPE,Bulk Carrier,85959,21591,2000,St Kitts & Nevis,,Franser Shipping SA,Greece,SwissMarine Services SA,Cordelia Maritime Co,Marshall Islands,Chattogram,Bangladesh,2020-06-01 00:00:00,2020
+9100774,WILA,Chemical/Products Tanker,5431,3330,1997,Liberia,,Gialozoglou family,Greece,IMS SA,Bandit Shipping Co,Liberia,Gadani,Pakistan,2020-07-01 00:00:00,2020
+9105073,ANDY,Chemical/Products Tanker,26218,9389,1996,Liberia,,Gialozoglou family,Greece,Palermo SA,Paladin Maritime Inc,Liberia,Gadani,Pakistan,2020-09-01 00:00:00,2020
+9149225,ALBA,Chemical/Products Tanker,27526,9623,1998,Liberia,,Gialozoglou family,Greece,Palermo SA,Rifia Shipping Inc,Liberia,Chattogram,Bangladesh,2020-11-01 00:00:00,2020
+9125190,REINA I,Chemical/Products Tanker,29965,11635,1997,Liberia,,Gialozoglou family,Greece,Palermo SA,Krono Navigation & Shipping Co,Liberia,Chattogram,Bangladesh,2020-10-01 00:00:00,2020
+8506373,ASTOR,Passenger/Cruise,20704,11115,1987,Bahamas,,Global Maritime Group Inc,Greece,Cruise & Maritime Voyages Ltd,Passion Shipping & Investment,Liberia,Aliaga,Turkey,2020-11-01 00:00:00,2020
+9217761,CRASSIER,Bulk Carrier,87473,21295,2000,Panama,,Golden Union Shipping Co SA,Greece,Golden Union Maritime Ops SA,Blond Gold Ltd,British Virgin Islands,Alang,India,2020-01-01 00:00:00,2020
+9194878,TG APHRODITE,Container Ship (Fully Cellular),25630,10817,1999,Liberia,,Goldenport Shipmanagement Ltd,Greece,X-Press Feeders,Cerulean Marine Ltd,Liberia,Gadani,Pakistan,2020-06-01 00:00:00,2020
+8836974,AEGINA II,Bunkering Tanker (Oil),782,,1966,Togo,Greece,Hydrodotiki Group of Companies,Greece,Hydrodotiki Ltd,Hydrousa Maritime Co,Greece,Aliaga,Turkey,2020-01-01 00:00:00,2020
+8214877,RITAJ-A,General Cargo Ship,6686,2867,1982,Tanzania (Zanzibar),,IMS Hellenic Company,Greece,IMS Greece Co,Ritaj Maritime SA,Belize,Gadani,Pakistan,2020-09-01 00:00:00,2020
+8820121,EKO 5,Products Tanker ,2041,1346,1989,Cameroon,Greece,Interunity Management Maritime,Greece,Eko-Artemis Shipping Co,Eko-Artemis Shipping Co,Greece,Aliaga,Turkey,2020-02-01 00:00:00,2020
+8813142,EKO 4,Products Tanker,2041,1423,1989,Cameroon,Greece,Interunity Management Maritime,Greece,Kinetic Shipping-Glyfada,Eko-Demetra Shipping Co,Greece,Aliaga,Turkey,2020-02-01 00:00:00,2020
+8411243,MELINA,LPG Tanker,5284,3389,1984,Togo,Greece,Interunity Management Maritime,Greece,Kinetic Shipping-Glyfada,Hellenic Petroleum-Poseidon,Greece,Aliaga,Turkey,2020-04-01 00:00:00,2020
+9210696,ADAMASTOS,General Cargo Ship,7111,4717,2001,Kiribati,,Isobel SA,Greece,Isobel SA,Adamastos Lines SA,Marshall Islands,Gadani,Pakistan,2020-06-01 00:00:00,2020
+7214545,ATLANTIS,Passenger Ship,1525,900,1972,Greece,,Kissamos Cruises MC,Greece,Kissamos Cruises MC,Kissamos Cruises MC,Greece,Aliaga,Turkey,2020-10-01 00:00:00,2020
+9138678,MASTER,Bulk Carrier,15888,6772,1997,St Kitts & Nevis,Cyprus,Lamda Maritime SA,Greece,Lamda Maritime SA,Newship Investment SA,Liberia,Gadani,Pakistan,2020-08-01 00:00:00,2020
+7358327,VITSENTZOS KORNAROS,Passenger/Ro-Ro Ship (Vehicles),6387,5114,1976,Comoros,Greece,Lassithiotiki Shipping SA,Greece,Lassithiotiki Shipping SA,Lassithiotiki Shipping SA,Greece,Aliaga,Turkey,2020-04-01 00:00:00,2020
+8521830,SKYFROST,Refrigerated Cargo Ship ,12383,7270,1985,Panama,,Lavinia Corp,Greece,Lavinia Corp,Berwick Group Ltd,Bahamas,Chattogram,Bangladesh,2020-07-01 00:00:00,2020
+9050400,COLORS,Products Tanker,6544,3552,1993,St Kitts & Nevis,Liberia,Mare Shipmanagement S.A.,Greece,West Enterprise Shipmanagement,True Colors Shipping Inc,Liberia,Alang,India,2020-12-01 00:00:00,2020
+9155315,CAPTAIN GEORGE K,Bulk Carrier,18070,7356,1997,Liberia,,Mariners Shipping Agency,Greece,Mariners Shipping Agency,St Ioannis Shipping Corp,Marshall Islands,Chattogram,Bangladesh,2020-03-01 00:00:00,2020
+9206437,GANBEI,Bulk Carrier,87363,21288,2001,Marshall Islands,,MB Moundreas Shipping Co SA,Greece,Unimar Success SA,Kramer Marine SA,Marshall Islands,Chattogram,Bangladesh,2020-02-01 00:00:00,2020
+7396769,JUMEIRA,Platform Supply Ship,1064,1066,1975,Italy,,Mr Lampros Chountas,Greece,Cornelsen & Riedl Yacht,Ammat Marine Ltd,Malta,Aliaga,Turkey,2020-12-01 00:00:00,2020
+9000194,RINO,Crude Oil Tanker,78843,22520,1994,Comoros,Liberia,Navigator Tankers Management,Greece,Vetrica Navigation Co,Vetrica Navigation Co,Liberia,Chattogram,Bangladesh,2020-01-01 00:00:00,2020
+9187772,NEW PAROS,Crude Oil Tanker,57925,16696,1998,Panama,,New Shipping Ltd-LIB,Greece,New Shipping Ltd-LIB,Lamyra Maritime SA,Liberia,Gadani,Pakistan,2020-12-01 00:00:00,2020
+9195303,NEW ATHENS,Bulk Carrier,85914,21115,1999,Panama,,New Shipping Ltd-LIB,Greece,SwissMarine Services SA,Best Wishes Shipping Co,Liberia,Gadani,Pakistan,2020-06-01 00:00:00,2020
+8808678,OCEANA STAR,Ro-Ro Cargo Ship,3998,2287,1990,Panama,,Ocean Shipmanagement Ltd,Greece,Ocean Shipmanagement Ltd,Barfin Shipping Corp,Marshall Islands,Gadani,Pakistan,2020-08-01 00:00:00,2020
+8321668,SARAH F,General Cargo Ship,8902,4462,1984,Palau,,Orient Marine International Co,Greece,Heliessa Marine SA,Heliessa Marine SA,Liberia,Gadani,Pakistan,2020-12-01 00:00:00,2020
+9115080,BEST WAVE,Bulk Carrier,16769,6143,1995,Panama,,Oryx Shipping Limited,Greece,Oryx Shipping Ltd-MAI,Best Wave Maritime Co SA,Panama,Gadani,Pakistan,2020-10-01 00:00:00,2020
+9111931,BEST FUTURE,Bulk Carrier,25074,7037,1995,Panama,,Oryx Shipping Limited,Greece,Oryx Shipping Ltd-MAI,Best Future Maritime Company,Panama,Gadani,Pakistan,2020-08-01 00:00:00,2020
+9111929,BEST LEADER,Bulk Carrier,25074,7065,1995,Panama,,Oryx Shipping Limited,Greece,Oryx Shipping Ltd-MAI,Best Trader Maritime SA,Panama,Gadani,Pakistan,2020-11-01 00:00:00,2020
+9130339,BFP MELODY,Container Ship (Fully Cellular),10457,4565,1998,Liberia,,Pateras family,Greece,Far Shipping Lines Pte Ltd,Alverton Shipping Ltd,Liberia,Chattogram,Bangladesh,2020-06-01 00:00:00,2020
+9130327,BFP GALAXY,Container Ship (Fully Cellular),10457,5095,1997,Liberia,,Pateras family,Greece,Contships Management Inc,Larentia Shipping Co,Liberia,Gadani,Pakistan,2020-09-01 00:00:00,2020
+9104081,PTOLEMEOS,Bulk Carrier,26062,7469,1995,Liberia,,Probulk Shipping & Trading SA,Greece,Probulk Shipping & Trading SA,Titan Marine Ltd,Liberia,Gadani,Pakistan,2020-12-01 00:00:00,2020
+9119983,ARYBBAS,Bulk Carrier,27011,7770,1996,Liberia,,Probulk Shipping & Trading SA,Greece,Probulk Shipping & Trading SA,Maximus Marine Ltd,Liberia,Gadani,Pakistan,2020-12-01 00:00:00,2020
+9105138,AQUARIUS,Chemical/Products Tanker,11426,5984,1995,Barbados,,Salmar Shipping ,Greece,Fareast Marine Services HK Ltd,Evergreen Shipping Ltd,Marshall Islands,Gadani,Pakistan,2020-10-01 00:00:00,2020
+9086538,PANTANASSA,Bulk Carrier,18495,7844,1996,Marshall Islands,,Spanopoulos Group of Companies,Greece,Sigma Shipmanagement SA,Pantanassa Shipping Co,Marshall Islands,Gadani,Pakistan,2020-02-01 00:00:00,2020
+7529988,HAJ SAYED I,General Cargo Ship,1882,1000,1976,Comoros,Tanzania,Success M&S Maritime S.A.,Greece,Trabeh Lines Co,Trabeh Lines Co,United States Of America,Aliaga,Turkey,2020-07-01 00:00:00,2020
+8913540,BOLD VOYAGER,Bulk Carrier,25905,8211,1991,Panama,,Tingas family ,Greece,Astrid Enterprises Corp,Astrid Enterprises Corp,Marshall Islands,Gadani,Pakistan,2020-07-01 00:00:00,2020
+7412379,MARIA I,Products Tanker ,1207,,1974,Togo,Greece,Transwater Management Limited,Greece,Transwater Management Ltd,Hydator NE,Greece,Aliaga,Turkey,2020-02-01 00:00:00,2020
+7916820,RODOS,Products Tanker ,998,,1979,Togo,Greece,Trust I NE,Greece,Trust I Maritime Co,Trust I Maritime Co,Greece,Aliaga,Turkey,2020-01-01 00:00:00,2020
+9141687,MURAD,General Cargo Ship,4993,2032,1998,Togo,,Unimed Navigation S.A.,Greece,Unimed Navigation SA,Murad Marine Co,St Kitts & Nevis,Alang,India,2020-07-01 00:00:00,2020
+9148659,STAR OF LUCK,Container Ship (Fully Cellular),16915,6986,1997,Panama,,Victoria Oceanway Limited ,Greece,Gold Star Line Ltd,Cole International Holdings SA,Liberia,Chattogram,Bangladesh,2020-03-01 00:00:00,2020
+9043720,PACIFIC RUBY,Ore Carrier,147902,33878,1993,Hong Kong,,Cido Shipping HK Co Ltd,Hong Kong,Cido Shipping HK Co Ltd,Dynamic Speedy Marine SA,Hong Kong,Chattogram,Bangladesh,2020-06-01 00:00:00,2020
+9200031,ZHONG DA,Container Ship (Fully Cellular),7970,3857,2000,Mongolia,,Ga Wing Logistics Ltd,Hong Kong,Ga Wing Logistics Ltd,Ga Wing Logistics Ltd,Hong Kong,Unknown,China,2020-01-01 00:00:00,2020
+9032044,TIAN RONG,Container Ship (Fully Cellular),6144,,1992,China  ,,HNA Group International Co Ltd,Hong Kong,Tianjin Marine Shipping Co Ltd,Tianjin Marine Shipping Co Ltd,China  ,Jiangyin,China  ,2020-12-01 00:00:00,2020
+8219619,HUAWANG,Anchor Handling Tug Supply,1299,1190,1984,Liberia,,China Merchants Steam Nav,Hong Kong ,Shenzhen Huawei Offshore,Huawang Shipping Liberia Inc,Liberia,Chattogram,Bangladesh,2020-12-01 00:00:00,2020
+9119488,ERIN,General Cargo Ship,8944,4547,1996,Belize,,Chi-Ocean International Shipping Limited,Hong Kong ,Kind Glory Shipping Co Ltd,Tera Ocean Shipping Ltd,Hong Kong ,Chattogram,Bangladesh,2020-08-01 00:00:00,2020
+9110224,PACIFIC CORAL,Ore Carrier,148169,28455,1995,Hong Kong ,,Cido Shipping HK Co Ltd,Hong Kong ,Cido Shipping HK Co Ltd,Brave Horse Shipping Inc,Liberia,Chattogram,Bangladesh,2020-07-01 00:00:00,2020
+9077410,PACIFIC OPAL,Ore Carrier,156280,37399,1995,Hong Kong ,,Cido Shipping HK Co Ltd,Hong Kong ,Cido Shipping HK Co Ltd,Heroic Norma Inc,Liberia,Chattogram,Bangladesh,2020-03-01 00:00:00,2020
+9075723,PACIFIC GARNET,Ore Carrier,156280,38509,1995,Hong Kong ,,Cido Shipping HK Co Ltd,Hong Kong ,Cido Shipping HK Co Ltd,Heroic Chamaeleon Inc,Liberia,Chattogram,Bangladesh,2020-06-01 00:00:00,2020
+9209922,BLUE ISLAND 8,Bulk Carrier,83575,19233,2000,Panama,,Easy Luck International HK Limited,Hong Kong ,Fujian Shipping Group Co Ltd,Easy Luck International HK Ltd,Hong Kong ,Chattogram,Bangladesh,2020-02-01 00:00:00,2020
+9070797,MINXI,Bulk Carrier,25498,8012,1994,Panama,,Ever Glory Maritime Company Limited,Hong Kong ,Ever Glory Maritime Co Ltd,Minxi Shipping Hongkong Co Ltd,Hong Kong ,Chattogram,Bangladesh,2020-05-01 00:00:00,2020
+9011882,ETERNAL BLOOM,Chemical Tanker,1645,1130,1989,Sierra Leone,,Full Shine Shipping Ltd-HKG,Hong Kong ,Full Shine Shipping Ltd-HKG,Full Shine Shipping Ltd-HKG,Hong Kong ,Chattogram,Bangladesh,2020-02-01 00:00:00,2020
+7413232,GC,LNG Tanker,95084,30174,1979,Palau,Marshall Islands,Golden Concord Holdings Ltd,Hong Kong ,Golden Concord Holdings Ltd,GCL LNG Ltd,British Virgin Islands,Alang,India,2020-01-01 00:00:00,2020
+9062348,HONG CHING,Products Tanker,2998,2100,1992,Cook Islands,Sierra Leone,Rui Xiang (HK) Marine Company Limited,Hong Kong ,Yong Da Line Corp Ltd,Yong Da Line Corp Ltd,Seychelles,Chattogram,Bangladesh,2020-03-01 00:00:00,2020
+8915732,FUXING,Bulk Carrier,23275,7650,1991,Panama,,Vernal Breeze Shipping Ltd,Hong Kong ,Vernal Breeze Shipping Ltd,Vernal Breeze Shipping Ltd,Hong Kong ,Chattogram,Bangladesh,2020-05-01 00:00:00,2020
+9086796,GODAFOSS,Container Ship (Fully Cellular),14664,7195,1995,Liberia,Faeroe Islands,Eimskip Island ehf,Iceland,Eimskip Island ehf,Godafoss Line Sp/f,Faeroe Islands,Alang,India,2020-06-01 00:00:00,2020
+9086801,LAXFOSS,Container Ship (Fully Cellular),14664,7199,1995,Liberia,Faeroe Islands,Eimskip Island ehf,Iceland,Eimskip Island ehf,Dettifoss Line Sp/f,Faeroe Islands,Alang,India,2020-06-01 00:00:00,2020
+9018684,SHIRDI,Products Tanker,21142,10830,1994,St Kitts & Nevis,India,Arya Group,India,Arya Voyagers Pvt Ltd,Arya Nautica Pvt Ltd,India,Alang,India,2020-02-01 00:00:00,2020
+8201741,SHUNTER,Anchor Handling Tug Supply,1521,1753,1983,Panama,Marshall Islands,Focus Energy Ltd,India,Focus Energy Ltd,Newbury Holdings Two Ltd,Cyprus,Alang,India,2020-08-01 00:00:00,2020
+8220292,MALAVIYA THREE,Anchor Handling Tug Supply,1250,1217,1984,India,,GOL Offshore Ltd,India,GOL Offshore Ltd,GOL Offshore Ltd,India,Alang,India,2020-03-01 00:00:00,2020
+8766301,GAL INSTALLER,"Deck Cargo Pontoon, non propelled",5420,3346,1994,Niue,India,GOL Offshore Ltd,India,GOL Offshore Ltd,GOL Offshore Ltd,India,Alang,India,2020-08-01 00:00:00,2020
+8304933,HALANI 4,Anchor Handling Tug Supply,867,888,1983,India,,Halani Shipping Pvt Ltd,India,Halani Shipping Pvt Ltd,Bhambhani Shipping Ltd,India,Alang,India,2020-03-01 00:00:00,2020
+8521220,KARNIKA,Passenger/Cruise,70310,30213,1990,St Kitts & Nevis,Bahamas,Jalesh Cruises,India,Jalesh Cruises Mauritius Ltd,Jalesh Cruises Mauritius Ltd,Mauritius,Alang,India,2020-11-01 00:00:00,2020
+9132703,WEST SCENT,Container Ship (Fully Cellular),11875,5046,1995,St Vincent & The Grenadines,,Lilly Maritime Pvt Ltd,India,Future Trend Nautical LLC,Nautical Trend Shipping Co Inc,Panama,Alang,India,2020-06-01 00:00:00,2020
+8650423,UMA PREM,Trailing Suction Hopper Dredger,2374,1594,2004,India,,Mercator Ltd,India,Mercator Ltd,Mercator Ltd,India,Alang,India,2020-01-01 00:00:00,2020
+8619443,BALWA,Products Tanker,26356,9259,1989,St Kitts & Nevis,Nigeria,Oceanic Shipping Services Private,India,Oceanic Shipping Services Pvt,Sea Transport Services Nigeria,Nigeria,Chattogram,Bangladesh,2020-02-01 00:00:00,2020
+9112129,DIOR,Products Tanker,26218,9574,1996,Palau,India,Seven Islands Shipping Limited,India,Seven Islands Shipping Ltd,Seven Islands Shipping Ltd,India,Chattogram,Bangladesh,2020-02-01 00:00:00,2020
+8323393,RCHID,Products Tanker,17612,8437,1986,Comoros,India,Seven Islands Shipping Ltd,India,Seven Islands Shipping Ltd,Seven Islands Shipping Ltd,India,Chattogram,Bangladesh,2020-01-01 00:00:00,2020
+9127318,TAG 22,Offshore Support Vessel,1969,1434,1997,India,,Tag Offshore Ltd,India,Tag Offshore Ltd,Tag Offshore Ltd,India,Alang,India,2020-11-01 00:00:00,2020
+8819081,NAVYA,Products Tanker,22650,9413,1991,India,,Tag Offshore Ltd,India,Tag Offshore Ltd,Tag Offshore Ltd,India,Gadani,Pakistan,2020-10-01 00:00:00,2020
+8128975,MAHA,LPG Tanker,15709,8350,1983,Gabon,Unknown,Varun Shipping Co Ltd,India,Varun Shipping Co Ltd,VSC International Pte Ltd,Singapore,Alang,India,2020-01-01 00:00:00,2020
+9159191,SURYAWATI,Bulk Carrier,36175,9730,1996,Indonesia,,Arpeni Pratama Ocean Line,Indonesia,Arpeni Pratama Ocean Line,Bontang Maju Sejahtera PT,Indonesia,Gadani,Pakistan,2020-09-01 00:00:00,2020
+8612964,BERKAH 45,General Cargo Ship,5607,2171,1986,Indonesia,,Berkah Setanggi Timur,Indonesia,Berkah Setanggi Timur,Berkah Setanggi Timur,Indonesia,Unknown,Indonesia,2020-10-01 00:00:00,2020
+8919908,GAS INDONESIA,LPG Tanker,3392,2049,1990,Indonesia,,Berlian Laju Tanker Tbk PT,Indonesia,Berlian Laju Tanker Tbk PT,Berlian Laju Tanker Tbk PT,Indonesia,Chattogram,Bangladesh,2020-12-01 00:00:00,2020
+8217324,ISA GLORY,Bulk Carrier,14286,5447,1983,Indonesia,,Isa Lines PT,Indonesia,Isa Lines PT,Isa Lines PT,Indonesia,Chattogram,Bangladesh,2020-03-01 00:00:00,2020
+8405218,ISA LUCKY,Bulk Carrier,15763,5557,1984,Indonesia,,Isa Lines PT,Indonesia,Isa Lines PT,Isa Lines PT,Indonesia,Chattogram,Bangladesh,2020-12-01 00:00:00,2020
+9075735,PERMATA CAROLINE,Bulk Carrier,38567,10795,1995,Indonesia,,Jaya Samudra Karunia Shipping,Indonesia,Jaya Samudra Karunia Shipping,Samudra Berkat Shipping PT,Indonesia,Chattogram,Bangladesh,2020-12-01 00:00:00,2020
+9140009,SHANTHI,Bulk Carrier,26064,7500,1996,Indonesia,,Karya Sumber Energy PT,Indonesia,Karya Sumber Energy PT,Karunia Timur Sejalan,Indonesia,Chattogram,Bangladesh,2020-12-01 00:00:00,2020
+8115605,RINA,Container Ship (Fully Cellular),10012,5540,1983,Palau,Indonesia,Meratus Line PT,Indonesia,Meratus Line PT,Mandiri Bahari Line,Indonesia,Alang,India,2020-01-01 00:00:00,2020
+8902747,PARNA BERLIAN 2,LPG Tanker,7083,4355,1990,Indonesia,,Parnaraya Nusantara PT,Indonesia,Arthasamudera Mandiri PT,Arthasamudera Mandiri PT,Indonesia,Alang,India,2020-02-01 00:00:00,2020
+8021127,MUARA BERLIAN,General Cargo Ship,4209,,1981,Indonesia,,Rajawali Berlian PT,Indonesia,Rajawali Berlian PT,Rajawali Berlian PT,Indonesia,Unknown,Indonesia,2020-10-01 00:00:00,2020
+8114340,DEWI SAMUDERA XI,General Cargo Ship,1255,,1981,Indonesia,,Ratu Kidul Nusantara,Indonesia,Ratu Kidul Nusantara,Ratu Kidul Nusantara,Indonesia,Jakarta,Indonesia,2020-01-01 00:00:00,2020
+9141089,HIJAU TERANG,General Cargo Ship,7455,3416,1996,Indonesia,,Salam Pacific Indonesia Lines,Indonesia,Salam Pacific Indonesia Lines,Salam Pacific Indonesia Lines,Indonesia,Chattogram,Bangladesh,2020-07-01 00:00:00,2020
+9063964,ARMADA PAPUA,Container Ship (Fully Cellular),9606,5249,1993,Indonesia,,Salam Pacific Indonesia Lines,Indonesia,Salam Pacific Indonesia Lines,Salam Pacific Indonesia Lines,Indonesia,Chattogram,Bangladesh,2020-06-01 00:00:00,2020
+9101807,ARMADA PURNAMA,Container Ship (Fully Cellular),9600,5253,1995,Indonesia,,Salam Pacific Indonesia Lines,Indonesia,Salam Pacific Indonesia Lines,Salam Pacific Indonesia Lines,Indonesia,Chattogram,Bangladesh,2020-07-01 00:00:00,2020
+8403624,SOECHI CHEMICAL XIX,Chemical/Products Tanker,2904,1770,1984,Indonesia,,Soechi Group PT,Indonesia,Lintas Samudra Maritim,Lintas Samudra Maritim,Indonesia,Bojonegara,Indonesia,2020-04-01 00:00:00,2020
+8709585,SOECHI CHEMICAL VII,Chemical Tanker,3570,2213,1989,Indonesia,,Soechi Group PT,Indonesia,Sukses Osean Khatulistiwa Line,Sukses Osean Khatulistiwa Line,Indonesia,Unknown,Indonesia,2020-01-01 00:00:00,2020
+8913605,TOTAL,"FSO, Oil",28223,8785,1992,St Kitts & Nevis,Indonesia,Soechi Group PT,Indonesia,Sukses Osean Khatulistiwa Line,Putra Utama Line PT,Indonesia,Chattogram,Bangladesh,2020-01-01 00:00:00,2020
+9104134,STRAIT MAS,Container Ship (Fully Cellular),13949,5722,1994,Indonesia,,TEMAS Line,Indonesia,TEMAS Line,Temas Shipping PT,Indonesia,Chattogram,Bangladesh,2020-03-01 00:00:00,2020
+8818233,ELI,Products Tanker,9948,4826,1990,Palau,Indonesia,Waruna Nusa Sentana PT,Indonesia,Waruna Nusa Sentana PT,Waruna Nusa Sentana PT,Indonesia,Chattogram,Bangladesh,2020-12-01 00:00:00,2020
+8717233,JET,Crude/Oil Products Tanker,28073,8872,1989,Palau,Indonesia,Waruna Nusa Sentana PT,Indonesia,Waruna Nusa Sentana PT,Waruna Nusa Sentana PT,Indonesia,Chattogram,Bangladesh,2020-12-01 00:00:00,2020
+8922527,AL NASER,General Cargo Ship (with Ro-Ro facility),15903,8920,1989,Jordan,,Iraq Govt,Iraq,Gulf & Arabian Island Shpg,Iraq Govt Maritime Transport,Iraq,Gadani,Pakistan,2020-10-01 00:00:00,2020
+8027200,LADY NOOR,Chemical/Products Tanker,8770,4290,1982,Comoros,,Pilot Shiptrade Incorporated,Iraq,Pilot Shiptrade Inc,Pilot Shiptrade Inc,Marshall Islands,Gadani,Pakistan,2020-01-01 00:00:00,2020
+9084190,JANICE N,Ore Carrier,148533,38856,1995,Liberia,,General Ore International Corp,Isle Of Man,Neu Seeschiffahrt GmbH,General Ore Carrier Corp XVI,Panama,Chattogram,Bangladesh,2020-10-01 00:00:00,2020
+9051820,CAR STAR,Vehicles Carrier,43790,12367,1993,Liberia,,XT Management Limited,Israel,Gold Star Line Ltd,Atwood Shipping Inc,Liberia,Chattogram,Bangladesh,2020-10-01 00:00:00,2020
+9131515,EUROCARGO TRIESTE,Ro-Ro Cargo Ship,26536,10698,1997,Malta,,Grimaldi Group SpA,Italy,Grimaldi Group SpA,Malta Motorways of the Sea Ltd,Malta,Aliaga,Turkey,2020-05-01 00:00:00,2020
+9030852,FIDES,Vehicles Carrier,33825,10790,1993,Malta,,Grimaldi Group SpA,Italy,Grimaldi Group SpA,Malta Motorways of the Sea Ltd,Malta,Aliaga,Turkey,2020-06-01 00:00:00,2020
+9030864,SPES,Vehicles Carrier,33823,11323,1993,Italy,,Grimaldi Group SpA,Italy,Grimaldi Group SpA,Grimaldi Euromed SpA,Italy,Aliaga,Turkey,2020-08-01 00:00:00,2020
+8758885,CASTORO II,"Crane Vessel, non propelled",12928,12246,1970,Bahamas,,SAIPEM SpA,Italy,SAIPEM SpA,SAIPEM Portugal Comercio,Madeira,Alang,India,2020-10-01 00:00:00,2020
+9054119,AEGEAN LEADER,Vehicles Carrier,48319,12924,1993,Panama,,NYK Line,Japan,NYK Line,Empress Shipholding SA,Panama,Alang,India,2020-06-01 00:00:00,2020
+8864854,YOKOSUKA MARU NO. 2,Waste Disposal Vessel,553,,1992,Japan,,Boso Kisen,Japan,Boso Kisen,Boso Kisen,Japan,Unknown,Unknown,2020-02-01 00:00:00,2020
+9209013,SULPHUR GARLAND,Molten Sulphur Tanker,3498,2415,1999,Panama,,Daiichi Tanker Co Ltd,Japan,Daiichi Tanker Co Ltd,Palm SA,Panama,Alang,India,2020-12-01 00:00:00,2020
+9129718,QUEEN PHENIX,LPG Tanker,5683,3381,1996,Panama,,Daiichi Tanker Co Ltd,Japan,Palm SA,Palm SA,Panama,Alang,India,2020-11-01 00:00:00,2020
+9078830,PEGASUS HIGHWAY,Vehicles Carrier,49012,12738,1994,Panama,,Fukunaga Kaiun KK,Japan,Kawasaki Kisen Kaisha Ltd,Eternity Maritime Shipping SA,Panama,Alang,India,2020-07-01 00:00:00,2020
+9325427,ROCKIES HIGHWAY,Vehicles Carrier,44364,12961,2006,Panama,,Fukunaga Kaiun KK,Japan,Kawasaki Kisen Kaisha Ltd,Eternity Maritime Shipping SA,Panama,Alang,India,2020-11-01 00:00:00,2020
+9250232,ATLANTIC HIGHWAY,Vehicles Carrier,55493,15245,2002,Panama,,Fukunaga Kaiun KK,Japan,Kawasaki Kisen Kaisha Ltd,Eternity Maritime Shipping SA,Panama,Alang,India,2020-09-01 00:00:00,2020
+9124225,STELLA BEAUTY,General Cargo Ship,4735,2076,1995,Panama,,Globex Corp,Japan,Grace Atoll Pvt Ltd,Mar Cot SA,Panama,Alang,India,2020-12-01 00:00:00,2020
+9257034,SHINS,Ro-Ro Cargo Ship,13089,7600,2002,Comoros,Japan,Izumi Kisen KK,Japan,Izumi Kisen KK,Japan Railway/Izumi Kisen,Japan,Chattogram,Bangladesh,2020-08-01 00:00:00,2020
+8751643,SAGA 2,"Drilling Rig, jack up",6030,7306,1984,Gabon,Panama,Japan Drilling Co Ltd,Japan,Japan Drilling Co Ltd,Sagadril,Panama,Alang,India,2020-02-01 00:00:00,2020
+9153549,POLARIS ACE,Vehicles Carrier,46346,12700,1997,Panama,,Kansai Steamship Co Ltd,Japan,Mitsui OSK Lines Ltd,New Polaris SA,Panama,Alang,India,2020-08-01 00:00:00,2020
+9153563,COSMOS ACE,Vehicles Carrier,46346,12783,1998,Panama,,Kansai Steamship Co Ltd,Japan,Nissan Motor Car Carrier,Polar Bear SA,Panama,Alang,India,2020-09-01 00:00:00,2020
+9277888,MIKAWA,Vehicles Carrier,13018,7327,2002,St Kitts & Nevis,Japan,Kawasaki Kisen Kaisha Ltd,Japan,Kawasaki Kinkai Kisen KK,Kawasaki Kinkai Kisen KK,Japan,Alang,India,2020-10-01 00:00:00,2020
+9134191,GLOBULUS,Wood Chips Carrier,40328,10644,1995,Panama,,Kawasaki Kisen Kaisha Ltd,Japan,Kawasaki Kisen Kaisha Ltd,Siboney Maritime SA,Panama,Alang,India,2020-12-01 00:00:00,2020
+9078842,ARCADIA HIGHWAY,Vehicles Carrier,49015,12784,1995,Panama,,Kawasaki Kisen Kaisha Ltd,Japan,Kawasaki Kisen Kaisha Ltd,Arcadia Highway Shipping SA,Panama,Alang,India,2020-06-01 00:00:00,2020
+9243473,CARIBBEAN HIGHWAY,Vehicles Carrier,42238,13107,2002,Panama,,Kawasaki Kisen Kaisha Ltd,Japan,Kawasaki Kisen Kaisha Ltd,Belocean Shipping SA,Panama,Alang,India,2020-08-01 00:00:00,2020
+9243461,BALTIC HIGHWAY,Vehicles Carrier,42238,13145,2001,Panama,,Kawasaki Kisen Kaisha Ltd,Japan,Kawasaki Kisen Kaisha Ltd,Belocean Shipping SA,Panama,Alang,India,2020-07-01 00:00:00,2020
+9205964,NIPPON HIGHWAY,Vehicles Carrier,49212,14146,1999,Panama,,Kawasaki Kisen Kaisha Ltd,Japan,Kawasaki Kisen Kaisha Ltd,St Paul Maritime Corp-LIB,Liberia,Alang,India,2020-10-01 00:00:00,2020
+9205988,OCEAN HIGHWAY,Vehicles Carrier,49212,14240,2000,Panama,,Kawasaki Kisen Kaisha Ltd,Japan,Kawasaki Kisen Kaisha Ltd,Shenandoah Maritime SA,Panama,Alang,India,2020-07-01 00:00:00,2020
+9238519,CONTINENTAL HIGHWAY,Vehicles Carrier,55493,15006,2001,Panama,,Kawasaki Kisen Kaisha Ltd,Japan,Kawasaki Kisen Kaisha Ltd,Continental Highway Shipping,Panama,Alang,India,2020-10-01 00:00:00,2020
+9238571,CAPE ORCHID,Bulk Carrier,87322,21218,2001,South Africa,,Kawasaki Kisen Kaisha Ltd,Japan,Kawasaki Kisen Kaisha Ltd,Water Front Shipping Pte Ltd,Singapore,Alang,India,2020-07-01 00:00:00,2020
+9213832,SHIN,Ro-Ro Cargo Ship,11790,6778,1999,St Kitts & Nevis,,Kuribayashi Steamship Co Ltd,Japan,Almanac Ship Management LLC,Scandi Navigation Pte Ltd,British Virgin Islands,Chattogram,Bangladesh,2020-06-01 00:00:00,2020
+9110107,LUMINOUS,Vehicles Carrier,45796,12500,1995,Palau,Panama,Meiji Shipping Group,Japan,Mitsui OSK Lines Ltd,T&M Maritime SA,Panama,Alang,India,2020-10-01 00:00:00,2020
+9238583,UNIVERSAL GREEN,Wood Chips Carrier,46515,10631,2002,Panama,,Mitsui OSK Lines Ltd,Japan,Mitsui OSK Lines Ltd,Cygnet Bulk Carriers SA,Panama,Alang,India,2020-02-01 00:00:00,2020
+9153551,EURO SPIRIT,Vehicles Carrier,46346,12739,1998,Liberia,,Mitsui OSK Lines Ltd,Japan,Euro Marine Carrier BV,MONC Liberia Inc,Liberia,Alang,India,2020-06-01 00:00:00,2020
+9213167,TACHIBANA,Bulk Carrier,83601,19098,2000,Panama,,Mitsui OSK Lines Ltd,Japan,Mitsui OSK Lines Ltd,Rigel Transport Inc,Marshall Islands,Alang,India,2020-06-01 00:00:00,2020
+9021423,JINGU,Vehicles Carrier,42164,11404,1992,Panama,,NYK Line,Japan,NYK Line,Mandheling/Nippon/Mitsubishi,Panama,Alang,India,2020-06-01 00:00:00,2020
+8913514,JINSEI MARU,Vehicles Carrier,58117,15258,1990,Liberia,,NYK Line,Japan,NYK Line,Nippon Yusen/Jinsei Maru,Liberia,Alang,India,2020-01-01 00:00:00,2020
+7915096,DREAM,Passenger/Cruise,35265,17843,1981,Comoros,Panama,Peace Boat,Japan,Peace Boat,Ocean Dream Shipping Inc,Panama,Alang,India,2020-12-01 00:00:00,2020
+9114452,EASTERN DRAGON,Molten Sulphur Tanker,3385,2023,1995,Panama,,Sansho Kaiun Co Ltd,Japan,Sansho Kaiun Co Ltd,Sansho Line SA,Panama,Unknown,Korea (South),2020-06-01 00:00:00,2020
+9209544,OHKO,Ro-Ro Cargo Ship,9925,,1999,St Kitts & Nevis,Japan,Satokuni Kisen Kaisha Ltd,Japan,Satokuni Kisen Kaisha Ltd,Advanced Transport/Satokuni,Japan,Chattogram,Bangladesh,2020-10-01 00:00:00,2020
+9134177,GREEN WORLD,Wood Chips Carrier,40252,10367,1996,Panama,,Shoei Kisen Kaisha Limited,Japan,Asia Pacific Shipmanagement,Seabright Shipping Inc,Panama,Gadani,Pakistan,2020-09-01 00:00:00,2020
+9016064,OYO,LPG Tanker,3004,2072,1992,Comoros,Japan,Shosei Kisen Co Ltd,Japan,Shosei Kisen Co Ltd,Shosei Kisen Co Ltd,Japan,Alang,India,2020-12-01 00:00:00,2020
+8804971,KAKUJO MARU,Cement Carrier,699,,1988,Japan,,Yamamoto Kisen-Matsuyama,Japan,Yamamoto Kisen-Matsuyama,Saiki Kisen,Japan,Busan,Korea (South),2020-08-01 00:00:00,2020
+9104471,F. STAR,Bulk Carrier,48950,12611,1995,Korea (South),,Five Ocean Corp,Korea (South),Five Ocean Corp,Five Ocean Corp,Korea (South),Chattogram,Bangladesh,2020-02-01 00:00:00,2020
+8419336,BRAVE SUN,Cement Carrier,1975,,1985,Panama,,Hanaro Shipping Co Ltd-Busan,Korea (South),Hanaro Shipping Co Ltd-Busan,Brave Star Maritime SA,Panama,Busan,Korea (South),2020-02-01 00:00:00,2020
+9087295,LISA II,Bulk Carrier,76068,18147,1995,Liberia,Korea (South),H-Line Shipping Co Ltd,Korea (South),H-Line Shipping Co Ltd,H-Line Shipping Co Ltd,Korea (South),Chattogram,Bangladesh,2020-02-01 00:00:00,2020
+9114165,GLOW,Vehicles Carrier,44891,14447,1995,St Kitts & Nevis,Korea (South),Hyunday Corp,Korea (South),Hyundai Glovis Co Ltd,Hyundai Glovis Co Ltd,Korea (South),Chattogram,Bangladesh,2020-07-01 00:00:00,2020
+9114177,PRIMO,Vehicles Carrier,44891,14498,1995,St Kitts & Nevis,Korea (South),Hyunday Corp,Korea (South),Eastern Car Liner Ltd,Hyundai Glovis Co Ltd,Korea (South),Chattogram,Bangladesh,2020-07-01 00:00:00,2020
+8702630,LAKE SUCCESS,Fish Carrier,1894,1307,1987,Korea (South),,Ji Sung Shipping Co Ltd,Korea (South),Ji Sung Shipping Co Ltd,Ji Sung Shipping Co Ltd,Korea (South),Chattogram,Bangladesh,2020-02-01 00:00:00,2020
+9058701,KEOYOUNG HOPE,Chemical/Products Tanker,738,593,1993,Korea (South),,Keoyoung Shipping Co Ltd,Korea (South),Keoyoung Shipping Co Ltd,Keoyoung Shipping Co Ltd,Korea (South),Busan,Korea (South),2020-06-01 00:00:00,2020
+9189495,SM VANCOUVER,Container Ship (Fully Cellular),66526,25138,2000,Liberia,,Korea Asset Management Corp,Korea (South),SM Line Corp,Korea Tonnage No 25 Shipping,Liberia,Gadani,Pakistan,2020-07-01 00:00:00,2020
+9074195,DANG,Bulk Carrier,77205,18773,1995,Liberia,Korea (South),Korea Shipping Corp,Korea (South),Korea Shipping Corp,Korea Shipping Corp,Korea (South),Chattogram,Bangladesh,2020-01-01 00:00:00,2020
+7513721,HANBADA I,Training Ship,3417,,1975,St Kitts & Nevis,Korea (South),Korea South Govt,Korea (South),Korea Maritime & Ocean,Korea South Govt Education,Korea (South),Chattogram,Bangladesh,2020-03-01 00:00:00,2020
+9033804,SAE YU DAL,Training Ship,3644,2405,1993,Korea (South),,Korea South Govt,Korea (South),Korea South MOE & HRD,Korea South Govt Education,Korea (South),Unknown,Korea (South),2020-12-01 00:00:00,2020
+8618700,KUMJIN NO. 21,General Cargo Ship,1603,999,1987,Mongolia,Korea (South),Kumjin Shipping Co Ltd,Korea (South),Kumjin Shipping Co Ltd,Kumjin Shipping Co Ltd,Korea (South),Chattogram,Bangladesh,2020-10-01 00:00:00,2020
+9017173,BUM YANG,Products Tanker,500,541,1991,Korea (South),,Kyung Dong Shipping Company Limited,Korea (South),Unknown,Unknown,Korea (South),Busan,Korea (South),2020-08-01 00:00:00,2020
+9237266,SOLAR BREEZE,Bulk Carrier,90876,22100,2000,Marshall Islands,,Polaris Shipping Co Ltd-KRS,Korea (South),Polaris Shipping Co Ltd-KRS,Breeze Maritime SA,Marshall Islands,Chattogram,Bangladesh,2020-01-01 00:00:00,2020
+9083093,STELLAR IRIS,Ore Carrier,154786,35038,1995,Panama,,Polaris Shipping Co Ltd-KRS,Korea (South),Polaris Shipping Co Ltd-KRS,PS-3 Shipping Inc,Panama,Chattogram,Bangladesh,2020-06-01 00:00:00,2020
+9060326,HERMES 1,Ore Carrier,160890,38289,1994,Comoros,Panama,Polaris Shipping Co Ltd-KRS,Korea (South),Polaris Shipping Co Ltd-KRS,PS-3 Shipping Inc,Panama,Chattogram,Bangladesh,2020-10-01 00:00:00,2020
+9048134,STELLAR KNIGHT,Ore Carrier,160666,38450,1995,Marshall Islands,,Polaris Shipping Co Ltd-KRS,Korea (South),Vale SA,VP-1 Shipping Inc,Marshall Islands,Chattogram,Bangladesh,2020-06-01 00:00:00,2020
+9030981,QUEEN 1,Ore Carrier,162393,38509,1994,Comoros,Marshall Islands,Polaris Shipping Co Ltd-KRS,Korea (South),Polaris Shipping Co Ltd-KRS,VP-7 Shipping Inc,Marshall Islands,Chattogram,Bangladesh,2020-10-01 00:00:00,2020
+9038438,STELLAR GALAXY,Ore Carrier,147697,39720,1993,Panama,,Polaris Shipping Co Ltd-KRS,Korea (South),Polaris Shipping Co Ltd-KRS,Galaxy Maritime Line SA,Panama,Gadani,Pakistan,2020-09-01 00:00:00,2020
+9044229,STELLAR EAGLE,Ore Carrier,154759,39808,1993,Panama,,Polaris Shipping Co Ltd-KRS,Korea (South),Polaris Shipping Co Ltd-KRS,VP-16 Shipping Inc,Panama,Gadani,Pakistan,2020-09-01 00:00:00,2020
+9030967,STELLAR SAMBA,Ore Carrier,164325,39941,1994,Marshall Islands,,Polaris Shipping Co Ltd-KRS,Korea (South),Polaris Shipping Co Ltd-KRS,PS-2 Shipping Inc,Marshall Islands,Chattogram,Bangladesh,2020-06-01 00:00:00,2020
+9030979,STELLAR OCEAN,Ore Carrier,162393,43892,1994,Marshall Islands,,Polaris Shipping Co Ltd-KRS,Korea (South),Vale SA,SOC Shipping Inc,Marshall Islands,Chattogram,Bangladesh,2020-12-01 00:00:00,2020
+9060338,STELLAR RIO,Ore Carrier,160666,46226,1994,Marshall Islands,,Polaris Shipping Co Ltd-KRS,Korea (South),Polaris Shipping Co Ltd-KRS,VP-8 Shipping Inc,Marshall Islands,Chattogram,Bangladesh,2020-03-01 00:00:00,2020
+9030955,STELLAR LIBERTY,Ore Carrier,164325,46933,1993,Marshall Islands,,Polaris Shipping Co Ltd-KRS,Korea (South),Polaris Shipping Co Ltd-KRS,SLI Shipping Inc,Marshall Islands,Chattogram,Bangladesh,2020-12-01 00:00:00,2020
+9000261,SINOKOR ULSAN,Container Ship (Fully Cellular/Ro-Ro Facility),5356,2942,1990,Korea (South),,Sinokor Merchant Marine Co Ltd,Korea (South),Sinokor Merchant Marine Co Ltd,Kookyang Shipping Co Ltd,Korea (South),Alang,India,2020-01-01 00:00:00,2020
+9046253,SAWASDEE LAEMCHABANG,Container Ship (Fully Cellular),15707,6952,1994,Korea (South),,Sinokor Merchant Marine Co Ltd,Korea (South),Fair Shipmanagement Co Ltd,Sinokor Merchant Marine Co Ltd,Korea (South),Alang,India,2020-01-01 00:00:00,2020
+9003122,HB SUNRISE,Ore Carrier,145217,38222,1992,St Kitts & Nevis,Panama,Sinokor Merchant Marine Co Ltd,Korea (South),Sinokor Maritime Co Ltd,Hbis Sunrise 1 SA,Panama,Gadani,Pakistan,2020-06-01 00:00:00,2020
+9041198,SINOGLORY,Ore Carrier,148257,38705,1992,Korea (South),,Sinokor Merchant Marine Co Ltd,Korea (South),Han Sung Line Co Ltd,Sinokor Merchant Marine Co Ltd,Korea (South),Chattogram,Bangladesh,2020-12-01 00:00:00,2020
+9152600,LILA HOCHIMINH,Container Ship (Fully Cellular),16915,6989,1998,Liberia,,SM Line Corp,Korea (South),SM Line Corp,SM Line Corp,Korea (South),Alang,India,2020-06-01 00:00:00,2020
+8014277,GA YANG,Cement Carrier,4678,,1981,Korea (South),,Ssangyong Cement Industrial Co,Korea (South),Ssangyong Cement Industrial Co,Ssangyong Cement Industrial Co,Korea (South),Busan,Korea (South),2020-08-01 00:00:00,2020
+8902357,T REN,Vehicles Carrier,26463,10530,1990,Niue,Panama,Tianjin-Inchon International,Korea (South),Tianjin-Inchon International,Marine Asia Shipping Inc,Panama,Chattogram,Bangladesh,2020-10-01 00:00:00,2020
+9005168,YOUNGSAN GAS,LPG Tanker,1356,1084,1990,Korea (South),,Youngsan Marine Co Ltd,Korea (South),Youngsan Marine Co Ltd,Youngsan Marine Co Ltd,Korea (South),Busan,Korea (South),2020-11-01 00:00:00,2020
+8846694,INTA,Bunkering Tanker (Oil),718,,1968,Unknown,Latvia,VL Bunkerings,Latvia,VL Bunkerings,VL Bunkerings,Latvia,Liepāja,Latvia,2020-05-01 00:00:00,2020
+8912261,ABK TRADER,Bulk Carrier,16722,6011,1991,Belize,,ABK Maritime Shipping Co Ltd,Lebanon,ABK Maritime Shipping Co Ltd,Perla Shipping SA,Honduras,Gadani,Pakistan,2020-12-01 00:00:00,2020
+8602385,BARBOUNY,General Cargo Ship,6425,3318,1989,Palau,,ADCO SAL,Lebanon,ADCO SAL,Barbouny Shipping SA,Marshall Islands,Gadani,Pakistan,2020-10-01 00:00:00,2020
+8708830,SINGLE EAGLE,Vehicles Carrier,14111,5048,1988,Panama,,African Mediterranean Lines,Lebanon,African Mediterranean Lines,Dytamar Shipping Ltd,Liberia,Chattogram,Bangladesh,2020-10-01 00:00:00,2020
+7920261,FK SARAY,General Cargo Ship,4281,2422,1981,Moldova,,Barhoum Maritime Company,Lebanon,Barhoum Maritime Co,Saray Shipping Co Ltd,Belize,Aliaga,Turkey,2020-12-01 00:00:00,2020
+8012231,HAMOUDI,Bulk Carrier,7747,5241,1982,Togo,St Vincent & The Grenadines,Bayazid Shipping Company,Lebanon,Bayazid Shipping Co,Hamoudi Shipping Co SA,Panama,Gadani,Pakistan,2020-09-01 00:00:00,2020
+8403155,SILVER SHARK,Bulk Carrier,15788,5636,1985,Palau,,ISM Group Sarl,Lebanon,ISM Group Sarl,Golden Shark Co Ltd,Marshall Islands,Gadani,Pakistan,2020-12-01 00:00:00,2020
+8316338,SEA SHARK,Bulk Carrier,15786,5674,1985,Cook Islands,,ISM Group Sarl,Lebanon,ISM Group Sarl,IMT Shipping Co Ltd,Liberia,Alang,India,2020-02-01 00:00:00,2020
+7920857,BANA,Vehicles Carrier,9367,3262,1980,Lebanon,,Med Wave Shipping SA,Lebanon,Med Wave Shipping SA,Med Wave Shipping SA,Lebanon,Aliaga,Turkey,2020-07-01 00:00:00,2020
+8321931,POLINA,Bulk Carrier,17814,6692,1986,Cameroon,Belize,Old Stone Shipmanagement Ltd,Lebanon,Old Stone Shipmanagement Ltd,Old Stone Shipmanagement Ltd,Belize,Gadani,Pakistan,2020-11-01 00:00:00,2020
+9116553,MJ BULKER,Bulk Carrier,25789,8071,1995,Barbados,,"Rana Al Masri, Rana Haidar & Ali Haidar",Lebanon,Rana Maritime Services SA,Med Sea Inc,Liberia,Gadani,Pakistan,2020-08-01 00:00:00,2020
+8215780,LADY MASSA,General Cargo Ship,8386,4143,1983,Barbados,,Rana Maritime Services SA,Lebanon,Rana Maritime Services SA,MOJ Shipholding Co,Liberia,Alang,India,2020-01-01 00:00:00,2020
+9039755,TRANS OCEAN,Chemical/Products Tanker,4433,2530,1992,Cameroon,,Safe Sea Services S.a.r.l.,Lebanon,Safe Sea Services Sarl,Trans Ocean Shipholding Co,Liberia,Alang,India,2020-12-01 00:00:00,2020
+7627302,TRANSFAIR,General Cargo Ship,5985,2600,1977,Panama,,Tempus Maritime Sarl,Lebanon,Tempus Maritime Sarl,Shejar Maritime SA,Panama,Alang,India,2020-09-01 00:00:00,2020
+8114912,TRANSOCEAN,Bulk Carrier,12874,5262,1982,Tanzania,,Tempus Maritime Sarl,Lebanon,Tempus Maritime Sarl,Transocean Maritime SA,Honduras,Gadani,Pakistan,2020-09-01 00:00:00,2020
+8402840,DAYTONA PRIME,General Cargo Ship,14201,5450,1985,Sierra Leone,,Daytona Prime Ltd,Liberia,Daytona Prime Ltd,Daytona Prime Ltd,Liberia,Gadani,Pakistan,2020-10-01 00:00:00,2020
+8804804,THE FUEL 07,Products Tanker,995,1695,1988,Unknown,Mongolia,JR Marine & Shipping Ltd,Liberia,JR Marine & Shipping Ltd,JR Marine & Shipping Ltd,Liberia,Gadani,Pakistan,2020-12-01 00:00:00,2020
+6913510,SAND SWAN,Trailing Suction Hopper Dredger,1204,,1970,Unknown,Lithuania,Baltic Dredging Group,Lithuania,Unknown,Unknown,Unknown,Leith,United Kingdom,2020-03-01 00:00:00,2020
+9048926,PRINCESS SOFEA,Products Tanker,1699,1036,1992,Panama,Malaysia,EA Marine Services Sdn Bhd,Malaysia,PM Marine Servcies Sdn Bhd,EA Technique M Bhd,Malaysia,Gadani,Pakistan,2020-08-01 00:00:00,2020
+7217999,SURI,Research Survey Vessel,4112,3627,1972,St Kitts & Nevis,Malaysia,Halim Mazmin Group,Malaysia,Liberty Shipping Sdn Bhd,Liberty Shipping Sdn Bhd,Malaysia,Chattogram,Bangladesh,2020-10-01 00:00:00,2020
+5118125,FORT LANG,Trailing Suction Hopper Dredger,1847,,1961,St Kitts & Nevis,Malaysia,Malaysian Maritime & Dredging,Malaysia,Malaysian Maritime & Dredging,Malaysian Maritime & Dredging,Malaysia,Chattogram,Bangladesh,2020-03-01 00:00:00,2020
+6400939,FORT ALEX,Trailing Suction Hopper Dredger,3041,,1964,St Kitts & Nevis,Malaysia,Malaysian Maritime & Dredging,Malaysia,Malaysian Maritime & Dredging,Malaysian Maritime & Dredging,Malaysia,Chattogram,Bangladesh,2020-03-01 00:00:00,2020
+8021983,ENDOR,"FSO, Oil",38706,13334,1983,Palau,Malaysia,MISC Bhd,Malaysia,FPSO Ventures Sdn Bhd,MISC Bhd,Malaysia,Alang,India,2020-02-01 00:00:00,2020
+8029351,FSO ANGSI,"FSO, Oil",39984,14843,1982,Niue,Malaysia,MISC Bhd,Malaysia,FPSO Ventures Sdn Bhd,MISC Bhd,Malaysia,Alang,India,2020-12-01 00:00:00,2020
+7928706,ANNA,Products Tanker,1958,1404,1980,Palau,Malta,Anthony Zammit & Michael Zammit,Malta,Gaulos Shipping Co Ltd,Marfa Tankers Ltd,Malta,Aliaga,Turkey,2020-10-01 00:00:00,2020
+7613507,AYANA,Chemical/Products Tanker,5521,3357,1980,Comoros,,Ayana Shipping Ltd,Marshall Islands,Ayana Shipping Ltd,Ayana Shipping Ltd,Marshall Islands,Gadani,Pakistan,2020-11-01 00:00:00,2020
+8312095,SKIPPERS-Y,Bulk Carrier,17065,6449,1984,Sierra Leone,,Shippers Ship-Trade Ltd,Marshall Islands,Shippers Ship-Trade Ltd,Shippers Ship-Trade Ltd,Marshall Islands,Gadani,Pakistan,2020-11-01 00:00:00,2020
+8922395,SIR,General Cargo Ship,1717,1043,1989,Panama,,Sir Shipping & Trading Limited,Marshall Islands,Sir Shipping & Trading Ltd,Sir Shipping & Trading Ltd,Marshall Islands,Aliaga,Turkey,2020-02-01 00:00:00,2020
+8754188,F V,"Drilling Rig, jack up",2398,3616,1980,Panama,,Foresight Group International,Mauritius,Foresight Offshore Drilling,Foresight Offshore Drilling,Panama,Alang,India,2020-09-01 00:00:00,2020
+9153094,PANAMAX ENERGY,Bulk Carrier,38718,10436,1998,Mexico,,Panenergy SA de CV,Mexico,Panenergy SA de CV,Panenergy SA de CV,Mexico,Chattogram,Bangladesh,2020-09-01 00:00:00,2020
+9053579,GUOFENG ENTERPRISE,Ore Carrier,150981,36385,1993,Liberia,,Zodiac Group Monaco SAM,Monaco,Zodiac Maritime Ltd,Josen Shipping Inc,Liberia,Alang,India,2020-07-01 00:00:00,2020
+9082312,HANDAN STEEL,Ore Carrier,149282,38047,1994,Liberia,,Zodiac Group Monaco SAM,Monaco,Zodiac Maritime Ltd,Berde Shipping No 2 Inc,Liberia,Chattogram,Bangladesh,2020-06-01 00:00:00,2020
+6704816,HAVSNURP,Fishing Vessel,536,,1966,Namibia,,Gendev of Namibia Pty Ltd,Namibia,Gendev of Namibia Pty Ltd,Gendev of Namibia Pty Ltd,Namibia,Unknown,Namibia,2020-05-01 00:00:00,2020
+7233773,STEVIA,Fishing Vessel,801,,1973,South Africa,,Ohlthaver & List Ltd,Namibia,Irvin & Johnson Ltd,Irvin & Johnson Ltd,South Africa,Unknown,South Africa,2020-01-01 00:00:00,2020
+8124046,CURLEW,"FPSO, Oil",52175,16760,1983,United Kingdom,,Royal Dutch Shell Plc,Netherlands,Shell UK Ltd,Shell UK Ltd,United Kingdom,Rogaland,Norway,2020-07-01 00:00:00,2020
+8911669,STOLT VESTLAND,Chemical Tanker,19034,9066,1992,Liberia,,Stolt Tankers,Netherlands,Stolt Tankers,Stolt Vestland BV,Netherlands,Alang,India,2020-07-01 00:00:00,2020
+8414790,GEOPOTES 15,Trailing Suction Hopper Dredger,10188,7319,1985,Netherlands,,Van Oord NV,Netherlands,Van Oord NV,Sleephopperzuigers II BV,Netherlands,Aliaga,Turkey,2020-07-01 00:00:00,2020
+9273870,VOS PRODUCER,Platform Supply Ship,2810,2454,2006,Netherlands,,Vroon Offshore BV,Netherlands,Vroon Offshore Services BV,Rig Express,Netherlands,Gravendeel,Netherlands,2020-10-01 00:00:00,2020
+9273911,VOS POWER,Platform Supply Ship,2810,2454,2006,Netherlands,,Vroon Offshore BV,Netherlands,Vroon Offshore Services BV,Power Express BV,Netherlands,Gravendeel,Netherlands,2020-09-01 00:00:00,2020
+9334026,VOS PROMINENCE,Platform Supply Ship,2810,2454,2007,Netherlands,,Vroon Offshore BV,Netherlands,Vroon Offshore Services BV,Supply Express BV,Netherlands,Gravendeel,Netherlands,2020-09-01 00:00:00,2020
+6910154,COASTAL CARRIER,Dredger (unspecified),630,,1968,New Zealand,,McCallum Bros Ltd,New Zealand,McCallum Bros Ltd,McCallum Bros Ltd,New Zealand,Unknown,New Zealand,2020-07-01 00:00:00,2020
+8316900,OCEAN TROLL,Anchor Handling Tug Supply,2516,,1984,United Kingdom,,Aegopodium AS,Norway,Ocean Response Management Ltd,Ocean Response Relief Ltd,United Kingdom,Hanoytangen,Norway,2020-10-01 00:00:00,2020
+9108219,KUO TAI,Container Ship (Fully Cellular),15071,5955,1995,Panama,,Atlantica Shipping AS,Norway,Samudera Indonesia Tbk PT,Kuo AS,Norway,Alang,India,2020-10-01 00:00:00,2020
+9112143,B GAS CHAMPION,LPG Tanker,2458,1473,1995,Malta,,B-Gas Ltd,Norway,B-Gas A/S,B-Gas Ltd,Cyprus,Aliaga,Turkey,2020-11-01 00:00:00,2020
+9227754,OCEANIC PHOENIX,Research Survey Vessel,11368,,2000,Norway (Nis),,DOF ASA,Norway,Master & Commander AS,Master & Commander AS,Norway,Esbjerg,Denmark,2020-12-01 00:00:00,2020
+8202824,SKANDI HAV,Platform Supply Ship,3188,2918,1983,Panama,,DOF ASA,Norway,DOF Management AS,DOF Rederi AS,Norway,Aliaga,Turkey,2020-10-01 00:00:00,2020
+7805124,VETNE,Passenger/Ro-Ro Ship (Vehicles),1660,,1979,Norway (Nis),,Falkungen AS,Norway,Falkungen AS,Falkungen AS,Norway,Grenaa,Denmark,2020-07-01 00:00:00,2020
+8313685,HAWK ARROW,Open Hatch Cargo Ship,28092,15532,1985,Bahamas,,Gearbulk Holding Ltd,Norway,Gearbulk Pool Ltd,Gearbulk Shipowning Ltd,Bermuda,Alang,India,2020-06-01 00:00:00,2020
+8412687,SAMSKIP FROST,Refrigerated Cargo Ship ,3398,,1985,Bahamas,,Green Reefers,Norway,Silver Green TC AS,Green Shipowning AS,Norway,Feda,Norway,2020-01-01 00:00:00,2020
+7207463,SIGMA,Research Survey Vessel,1467,,1972,Norway (Nis),,Maritim Management AS,Norway,Maritim Management AS,Maritim Research I AS,Norway,Hanoytangen,Norway,2020-01-01 00:00:00,2020
+9063885,KAAMI,General Cargo Ship,2715,1517,1994,Bahamas,,Misje Rederi AS,Norway,Misje Rederi AS,Misje Bulk AS,Norway,Aberdeen,United Kingdom,2020-05-01 00:00:00,2020
+8412261,MELDERSKIN,Passenger/Ro-Ro Ship (Vehicles),1974,,1985,Norway (Nis),,Norled AS,Norway,Tide ASA,Norled AS,Norway,Hanoytangen,Norway,2020-06-01 00:00:00,2020
+7728508,FRAFJORD,Passenger/Ro-Ro Ship (Vehicles),739,522,1979,Norway (Nis),,Norled AS,Norway,Norled AS,Norled AS,Norway,Stokksund,Norway,2020-09-01 00:00:00,2020
+9431848,HOEGH XIAMEN,Vehicles Carrier,47232,14807,2010,Norway (Nis),,Ocean Yield Malta Ltd,Norway,Hoegh Autoliners Management AS,OCY Xiamen Ltd,Malta,Aliaga,Turkey,2020-10-01 00:00:00,2020
+9042271,POLAR EXPRESS,Research Survey Vessel,2881,,1992,Unknown,,PGS ASA,Norway,Arrow Seismic ASA,Arrow Seismic ASA,Norway,Hanoytangen,Norway,2020-04-01 00:00:00,2020
+9275713,LINDA-I,Platform Supply Ship,2078,1833,2003,Togo,Marshall Islands,Ravnura Holding AS,Norway,MKF Shipping AS,MKF Shipping AS,Norway,Alang,India,2020-12-01 00:00:00,2020
+8713809,COPERNICUS,Chemical Tanker,1525,742,1987,Liberia,,Seatrans AS,Norway,Seatrans Chemical Tankers AS,Euro Trans Skips AS,Norway,Grenaa,Denmark,2020-10-01 00:00:00,2020
+8751095,SONGA DEE,"Drilling Rig, semi Submersible",15757,15682,1984,Marshall Islands,,Songa Offshore SE,Norway,Songa Offshore Rig AS,Songa Offshore SE,Norway,Aliaga,Turkey,2020-08-01 00:00:00,2020
+9216389,VINLAND,Shuttle Tanker,76567,27870,2000,Norway (NIS),,The J.J. Ugland Companies,Norway,Equinor ASA,Ugland Shipping AS,Norway,Aliaga,Turkey,2020-07-01 00:00:00,2020
+7303267,HERLAUG,Passenger/Ro-Ro Ship (Vehicles),737,,1973,Norway (Nis),,Torghatten ASA,Norway,FosenNamsos Sjo AS,FosenNamsos Sjo AS,Norway,Stokksund,Norway,2020-06-01 00:00:00,2020
+9122954,ASIAN PARADE,Vehicles Carrier,66995,21628,1996,Togo,Korea (South),Wilhelmsen Holding ASA,Norway,EUKOR Car Carriers Inc,EUKOR Car Carriers Inc,Korea (South),Aliaga,Turkey,2020-08-01 00:00:00,2020
+9131034,OPAL FORTUNE,Bulk Carrier,26341,7834,1997,Panama,,FMK Maritime & Trade SA,Panama,FMK Maritime & Trade SA,FMK Maritime & Trade SA,Panama,Gadani,Pakistan,2020-07-01 00:00:00,2020
+9417115,KOTI,Products Tanker,5182,2930,2008,Unknown,,Koti Corp,Panama,Koti Corp,Koti Corp,Panama,Unknown,Korea (South),2020-06-01 00:00:00,2020
+7923500,ATLAS,Platform Supply Ship,663,736,1980,Panama,,Stward Oil SA,Panama,Stward Oil SA,Stward Oil SA,Panama,Alang,India,2020-10-01 00:00:00,2020
+8818893,AMINA H,General Cargo Ship,4267,8893,1989,Tanzania (Zanzibar),,Tek Management Corporation,Panama,Tek Management Corp,Alalia Shipping SA,Liberia,Alang,India,2020-10-01 00:00:00,2020
+8405000,ASIA,General Cargo Ship (with Ro-Ro facility),5608,2950,1985,St Kitts & Nevis,Philippines,Philippine Span Asia Carrier,Philippines,Philippine Span Asia Carrier,Philippine Span Asia Carrier,Philippines,Alang,India,2020-06-01 00:00:00,2020
+8405036,ASIA 7,General Cargo Ship (with Ro-Ro facility),5608,2960,1985,St Kitts & Nevis,Philippines,Philippine Span Asia Carrier,Philippines,Philippine Span Asia Carrier,Philippine Span Asia Carrier,Philippines,Chattogram,Bangladesh,2020-12-01 00:00:00,2020
+8121032,ASIA 1,General Cargo Ship,5404,3144,1982,St Kitts & Nevis,Philippines,Philippine Span Asia Carrier,Philippines,Philippine Span Asia Carrier,Philippine Span Asia Carrier,Philippines,Chattogram,Bangladesh,2020-11-01 00:00:00,2020
+8302272,HEYMA,Ro-Ro Cargo Ship,15685,7383,1987,Panama,Malta,Polish Ocean Lines,Poland,Ignazio Messina & C SpA,Levant Chartering Ltd,Malta,Chattogram,Bangladesh,2020-09-01 00:00:00,2020
+8613061,BOOLI MOOG,General Cargo Ship,14499,5790,1987,Togo,,Johar Group of Companies,Romania,GMZ Ship Management Co SA,Devon Maritime Ltd,Marshall Islands,Alang,India,2020-03-01 00:00:00,2020
+9004475,MAKO,General Cargo Ship,6030,3668,1991,Moldova,,Ruad Marine Services Srl,Romania,Ruad Marine Services Srl,Betra Shipmanagement Ltd,Marshall Islands,Alang,India,2020-12-01 00:00:00,2020
+7832737,KORENOVSK,General Cargo Ship,1331,1405,1980,Russia,,Aeromor Scientific Co Ltd,Russia,Far East Technology Business,Far East Technology Business,Russia,Alang,India,2020-11-01 00:00:00,2020
+8729626,ZASHCHITNYY,Fishing Vessel,723,806,1989,Russia,,Aleksandrovskiy Rybozavod Co,Russia,Aleksandrovskiy Rybozavod Co,Aleksandrovskiy Rybozavod Co,Russia,Busan,Korea (South),2020-12-01 00:00:00,2020
+7109336,BEREZOVNEFT,Products Tanker,1564,1260,1971,Mongolia,Russia,Alisa Co Ltd,Russia,Alisa Co Ltd,Alisa Co Ltd,Russia,Chattogram,Bangladesh,2020-02-01 00:00:00,2020
+9711250,DALGA,Passenger/Ro-Ro Ship (Vehicles),1421,880,1978,Cameroon,Russia,Anship LLC,Russia,Anship LLC,Anship LLC,Russia,Aliaga,Turkey,2020-11-01 00:00:00,2020
+7643978,MARQUIZ,Ore/Oil Carrier,2613,1481,1977,Russia,,Baltic Ecological Company LLC [before DDM but up to 2019] ,Russia,DMM Engineering Co Ltd,DMM Engineering Co Ltd,Russia,Aliaga,Turkey,2020-01-01 00:00:00,2020
+7614604,LADOGA-11,General Cargo Ship,1588,815,1978,Russia,,Belomorskaya Carrying,Russia,Belomorskaya Carrying,Belomorskaya Carrying,Russia,Unknown,Russia,2020-02-01 00:00:00,2020
+8722850,ZVEYNIEKS,Fishing Vessel,742,870,1988,Russia,,Bios-Shelf JSC,Russia,Bios-Shelf JSC,Bios-Shelf JSC,Russia,Unknown,Lithuania,2020-01-01 00:00:00,2020
+8116295,BRODYUK,Fishing Vessel,3816,3471,1982,St Kitts & Nevis,Russia,Daltransflot Co Ltd,Russia,Daltransflot Co Ltd,Daltransflot Co Ltd,Russia,Alang,India,2020-03-01 00:00:00,2020
+8129606,TAGANROGA,Products Tanker,5154,3237,1983,Mongolia,Russia,EM Shipping Ltd,Russia,EM Shipping Ltd,EM Shipping Ltd,Russia,Chattogram,Bangladesh,2020-10-01 00:00:00,2020
+7942881,OPTIMAFLOT,Ore/Oil Carrier,2615,1509,1981,Russia,,EVL-Transshipping LLC,Russia,Annaka Associated SA,Annaka Associated SA,British Virgin Islands,Aliaga,Turkey,2020-02-01 00:00:00,2020
+7945558,VALERIY KALACHEV,Ore/Oil Carrier,2615,1509,1981,Russia,,EVL-Transshipping LLC,Russia,Annaka Associated SA,Annaka Associated SA,British Virgin Islands,Aliaga,Turkey,2020-02-01 00:00:00,2020
+8418605,NEFTEGAZ-70,Offshore Tug/Supply Ship,2723,2631,1990,Sierra Leone,Russia,FEMCO,Russia,Rosnefteflot JSC,FEMCO,Russia,Chattogram,Bangladesh,2020-12-01 00:00:00,2020
+8501074,MGS SAGAR,Research Survey Vessel,2508,2187,1986,Vanuatu,,FESCO,Russia,FESCO,Marine Geological Survey MGS,Cyprus,Alang,India,2020-12-01 00:00:00,2020
+9133173,AMUR,General Cargo Ship,6263,3861,1997,Russia,,FESCO,Russia,FESCO,FESCO,Russia,Alang,India,2020-02-01 00:00:00,2020
+7636652,SAKHOIL,Products Tanker,5105,3266,1980,Sierra Leone,,Fortune Tanker JSC,Russia,Fortune Tanker JSC,HSH Trading & Shipping Ltd,Cyprus,Chattogram,Bangladesh,2020-12-01 00:00:00,2020
+8857875,RENAISSANCE,General Cargo Ship,2457,970,1971,Tanzania (Zanzibar),,Fos Shipping Management Ltd,Russia,Millhouse Marine LLC,Renaissance Marine Ltd,Marshall Islands,Aliaga,Turkey,2020-03-01 00:00:00,2020
+9235127,TOPOL,General Cargo Ship,6714,3540,2001,Comoros,Russia,Gudzon Shipping Co LLC,Russia,Gudzon Shipping Co LLC,Gudzon Shipping Co LLC,Russia,Chattogram,Bangladesh,2020-09-01 00:00:00,2020
+7941837,GEORGIY MOSKOVSKIY,Fishing Vessel,4347,3905,1981,Palau,Russia,Intraros,Russia,Intraros,Intraros,Russia,Alang,India,2020-08-01 00:00:00,2020
+7636640,KAPITAN NIZHNICHENKO,Products Tanker,5105,3266,1980,Sierra Leone,Russia,Kapitan Nizhnichenko Co Ltd,Russia,Kapitan Nizhnichenko Co Ltd,Kapitan Nizhnichenko Co Ltd,Russia,Chattogram,Bangladesh,2020-12-01 00:00:00,2020
+6929337,DANKO,Fishing Vessel,2786,2343,1967,Russia,,Koryakmoreprodukt,Russia,Koryakmoreprodukt,Koryakmoreprodukt,Russia,Alang,India,2020-03-01 00:00:00,2020
+8847131,SMOLNINSKIY,Refrigerated Cargo Ship ,2483,1835,1990,Russia,,Lodia LLC,Russia,Lodia LLC,Lodia LLC,Russia,Alang,India,2020-12-01 00:00:00,2020
+8880523,TAMARA,Fish Carrier,683,730,1995,Mongolia,Russia,Marine Line Co Ltd,Russia,Marine Line Co Ltd,Marine Line Co Ltd,Russia,Chattogram,Bangladesh,2020-03-01 00:00:00,2020
+8225503,ASTRONOM,Fish Factory Ship,4014,,1982,Russia,,Nakhodka Active Fishery,Russia,Nakhodka Active Fishery,Nakhodka Active Fishery,Russia,Alang,India,2020-06-01 00:00:00,2020
+7703974,ARDATOV,Fishing Vessel,3834,3138,1980,Russia,,Nakhodka Active Fishery,Russia,Nakhodka Active Fishery,Nakhodka Active Fishery,Russia,Alang,India,2020-07-01 00:00:00,2020
+7707712,FORTUNA,General Cargo Ship,2372,1264,1977,Sierra Leone,Russia,Nevelskiy Morskoy Torgovyi,Russia,Nevelskiy Morskoy Torgovyi,Nevelskiy Morskoy Torgovyi,Russia,Busan,Korea (South),2020-11-01 00:00:00,2020
+7234193,YANTAR-1,Fishing Vessel,2146,1664,1972,Mongolia,Russia,Orion Co Ltd,Russia,Orion Co Ltd,Orion Co Ltd,Russia,Alang,India,2020-12-01 00:00:00,2020
+7119458,ICHA,Products Tanker,1606,1260,1971,Mongolia,Russia,Portnefteservis LLC,Russia,Portnefteservis LLC,Portnefteservis LLC,Russia,Chattogram,Bangladesh,2020-05-01 00:00:00,2020
+8700175,AVATAR,Products Tanker,2966,2102,1990,Mongolia,Russia,RIMSCO,Russia,EM Shipping Ltd,Inzer Ltd,Russia,Alang,India,2020-08-01 00:00:00,2020
+8033053,PRIBOY,Fish Factory Ship,4379,3924,1981,Belize,,Robinzon Ltd,Russia,Robinzon Ltd,Woromin Finance Ltd,British Virgin Islands,Alang,India,2020-10-01 00:00:00,2020
+8715118,DERSU UZALA,Fish Factory Ship,3641,2883,1991,Palau,Russia,Sakhalin Leasing Fleet JSC,Russia,Sakhalin Leasing Fleet JSC,Sakhalin Leasing Fleet JSC,Russia,Alang,India,2020-11-01 00:00:00,2020
+9411874,BFI 1,Rail Vehicles Carrier,5786,3234,2009,Russia,,Sandra Shipping Co Ltd-Russia,Russia,Sandra Shipping Co Ltd-Russia,Sandra Shipping Co Ltd-Russia,Russia,Aliaga,Turkey,2020-06-01 00:00:00,2020
+7366518,KUBAN,Offshore Tug/Supply Ship,805,839,1974,Russia,,Sea Projects & Technologies,Russia,Sea Projects & Technologies,Sea Projects & Technologies,Russia,Unknown,Russia,2020-05-01 00:00:00,2020
+7329144,SORMOVSKIY-32,General Cargo Ship,2478,1271,1974,Comoros,,Sredne-Volzhskaya Sudokhodnaya,Russia,Sredne-Volzhskaya Sudokhodnaya,Parkside Intl Services Ltd,British Virgin Islands,Aliaga,Turkey,2020-06-01 00:00:00,2020
+7413476,IGRIM,Products Tanker,13185,6845,1978,Russia,,Transoil Co Ltd-Nakhodka,Russia,Transoil Co Ltd-Nakhodka,Tekhnotek LLC,Russia,Gadani,Pakistan,2020-09-01 00:00:00,2020
+8841474,TROVE,Rail Vehicles Carrier,3084,1565,1986,Russia,,Vagna-Shipping JSC,Russia,Anship LLC,Ugtrans Terminal Co Ltd,Cyprus,Aliaga,Turkey,2020-03-01 00:00:00,2020
+8841450,MIDAS,Rail Vehicles Carrier,3083,1660,1984,Cameroon,Palau,Vagna-Shipping JSC,Russia,Anship LLC,Ugtrans Terminal Co Ltd,Cyprus,Aliaga,Turkey,2020-10-01 00:00:00,2020
+7831812,BAZHENOVSK,Fish Factory Ship,4457,3944,1980,Russia,,Vostokrybprom Ltd,Russia,Vostokrybprom Ltd,Vostokrybprom Ltd,Russia,Alang,India,2020-09-01 00:00:00,2020
+9047752,NCC MEKKA,Chemical/Products Tanker,23197,11226,1995,Saudi Arabia,,BAHRI,Saudi Arabia,National Chemical Carriers Ltd,National Chemical Carriers Ltd,Saudi Arabia,Alang,India,2020-07-01 00:00:00,2020
+9120944,BALSAM,Crude/Oil Products Tanker,53074,16909,1996,Saudi Arabia,,Bakri Bunker Trading Co Ltd,Saudi Arabia,Bihar International Co Ltd,Al Dar Al Barah Trading Co Ltd,Saudi Arabia,Chattogram,Bangladesh,2020-03-01 00:00:00,2020
+9105542,AL EZZ AL SAUDI,Products Tanker,3617,2101,1994,Saudi Arabia,,International Bunkering Company Limited (IBCO) ,Saudi Arabia,International Bunkering Co Ltd,Mohamed Orri WK,Saudi Arabia,Gadani,Pakistan,2020-12-01 00:00:00,2020
+9047506,RIYAD,Chemical/Products Tanker,23197,11224,1995,St Kitts & Nevis,Saudi Arabia,National Chemical Carriers Ltd,Saudi Arabia,National Chemical Carriers Ltd,National Chemical Carriers Ltd,Saudi Arabia,Alang,India,2020-02-01 00:00:00,2020
+7625366,FAN 4,Production Testing Vessel,780,580,1977,Gabon,Saudi Arabia,Saudi Aramco,Saudi Arabia,Saudi Aramco,Saudi Aramco,Saudi Arabia,Alang,India,2020-01-01 00:00:00,2020
+8205395,FAN 6,Offshore Support Vessel,1301,1126,1983,Gabon,Saudi Arabia,Saudi Aramco,Saudi Arabia,Saudi Aramco,Saudi Aramco,Saudi Arabia,Alang,India,2020-01-01 00:00:00,2020
+8767692,ABI 2,"Support Platform, jack up",3416,3856,1983,Gabon,Saudi Arabia,Saudi Aramco,Saudi Arabia,Saudi Aramco,Saudi Aramco,Saudi Arabia,Alang,India,2020-01-01 00:00:00,2020
+8767680,ABI 1,"Support Platform, jack up",3416,3946,1983,Gabon,Saudi Arabia,Saudi Aramco,Saudi Arabia,Saudi Aramco,Saudi Aramco,Saudi Arabia,Alang,India,2020-01-01 00:00:00,2020
+9371488,AMIL 14,Anchor Handling Tug Supply,1705,1052,2006,Palau,Bahrain,Zamil Group Holding Co,Saudi Arabia,Zamil Offshore Services Co Ltd,Zamil Offshore Services Co Ltd,Saudi Arabia,Alang,India,2020-01-01 00:00:00,2020
+9540493,AMIL 59,Anchor Handling Tug Supply,1330,1311,2009,Palau,Bahrain,Zamil Group Holding Co,Saudi Arabia,Zamil Offshore Services Co Ltd,Zamil Offshore Services Co Ltd,Saudi Arabia,Alang,India,2020-01-01 00:00:00,2020
+9540508,AMIL 60,Anchor Handling Tug Supply,1330,1311,2009,Palau,Bahrain,Zamil Group Holding Co,Saudi Arabia,Zamil Offshore Services Co Ltd,Zamil Offshore Services Co Ltd,Saudi Arabia,Alang,India,2020-01-01 00:00:00,2020
+9439187,AMIL 19,Anchor Handling Tug Supply,1641,1613,2007,Palau,Bahrain,Zamil Group Holding Co,Saudi Arabia,Zamil Offshore Services Co Ltd,Zamil Offshore Services Co Ltd,Saudi Arabia,Alang,India,2020-01-01 00:00:00,2020
+9452892,AMIL 50,Anchor Handling Tug Supply,1641,1613,2007,Palau,Bahrain,Zamil Group Holding Co,Saudi Arabia,Zamil Offshore Services Co Ltd,Zamil Offshore Services Co Ltd,Saudi Arabia,Alang,India,2020-01-01 00:00:00,2020
+9367085,AMIL 12,Anchor Handling Tug Supply,1621,1766,2006,Palau,Bahrain,Zamil Group Holding Co,Saudi Arabia,Zamil Offshore Services Co Ltd,Zamil Offshore Services Co Ltd,Saudi Arabia,Alang,India,2020-01-01 00:00:00,2020
+9041461,BARA ANUGERAH,Bulk Carrier,28420,10283,1994,Indonesia,,Asian Star Marine Pte Ltd,Singapore,Jaya Samudra Karunia Shipping,Sejahtera Karunia Lines,Indonesia,Chattogram,Bangladesh,2020-10-01 00:00:00,2020
+9104407,BASHUNDHARA-6,Bulk Carrier,25072,7125,1994,Bangladesh,Tuvalu,Atro Shipping S Pte Ltd,Singapore,Worldera Ship Management,East West Property Development,Bangladesh,Chattogram,Bangladesh,2020-08-01 00:00:00,2020
+7428471,FORT,LNG Tanker,80510,29558,1981,Marshall Islands,,Compass Energy Pte Ltd,Singapore,Compass Energy Pte Ltd,Fortune FSU Two Ltd,Marshall Islands,Chattogram,Bangladesh,2020-06-01 00:00:00,2020
+9002738,SHAGANG GIANT,Ore Carrier,157402,39462,1993,Liberia,,Eastern Pacific Shipping,Singapore,Zodiac Maritime Ltd,Bart Maritime No 2 Inc,Liberia,Alang,India,2020-03-01 00:00:00,2020
+9111474,WINNERS,Container Ship (Fully Cellular),10730,5652,1996,Liberia,Singapore,Erdinger Shipping Pte Ltd,Singapore,Orient Express Lines Inc,Lily Star Pte Ltd,Liberia,Alang,India,2020-03-01 00:00:00,2020
+8750156,NOAHS ARK,"Drilling Rig, jack up",5251,8212,1973,Vanuatu,,Ezion Holdings Ltd,Singapore,Teras Offshore Pte Ltd,Resilient Energy Ltd,Malaysia,Gadani,Pakistan,2020-12-01 00:00:00,2020
+9138630,UNITY,Bulk Carrier,18108,7433,1997,Panama,,Glory Ship Management Pte Ltd,Singapore,Glory Ship Management Pte Ltd,Olympic Maritime Ltd SA,Panama,Gadani,Pakistan,2020-02-01 00:00:00,2020
+9100396,KT 06,Bulk Carrier,25943,8002,1994,Indonesia,,Kokusai Transport Pte Ltd,Singapore,Karya Sumber Energy PT,Kokusai Transport Pte Ltd,Singapore,Chattogram,Bangladesh,2020-12-01 00:00:00,2020
+7428469,LUCK,LNG Tanker,80510,29251,1981,Marshall Islands,,LNG Easy S Pte Ltd,Singapore,LNG Easy S Pte Ltd,Lucky FSU One Ltd,Marshall Islands,Chattogram,Bangladesh,2020-06-01 00:00:00,2020
+9074389,APL CHINA,Container Ship (Fully Cellular),64502,24250,1995,Malta,,Neptune Orient Lines Ltd,Singapore,APL LLC,APL LLC,United States Of America,Aliaga,Turkey,2020-05-01 00:00:00,2020
+8915249,STELLAR EXPRESS,Wood Chips Carrier,40169,8284,1990,Panama,,Nova Shipping & Logistics Pte,Singapore,Nova Shipping & Logistics Pte,Stellar Express SA,Panama,Gadani,Pakistan,2020-10-01 00:00:00,2020
+8908777,IRIS EXPRESS,Wood Chips Carrier,39145,9508,1990,Panama,,Nova Shipping & Logistics Pte,Singapore,Nova Shipping & Logistics Pte,Iris Express SA,Panama,Chattogram,Bangladesh,2020-07-01 00:00:00,2020
+8901676,WELVIEW,Bulk Carrier,53891,16916,1989,Panama,,Oriental Ocean Shpg Holding,Singapore,Hongfa Shipping Pte Ltd,Hongfa Shipping Pte Ltd,Singapore,Gadani,Pakistan,2020-11-01 00:00:00,2020
+9064657,RANGER,Research Survey Vessel,5457,4249,1993,Niue,Marshall Islands,Otto Marine Ltd,Singapore,Go Offshore Asia Pte Ltd,Surf Ranger Ltd,Marshall Islands,Alang,India,2020-10-01 00:00:00,2020
+9272656,PAC ADARA,General Cargo Ship,20471,10194,2003,Unknown,Singapore,Pacific Carriers Ltd,Singapore,PACC Container Line Pte Ltd,Adara Maritime Pte Ltd,Singapore,Gadani,Pakistan,2020-10-01 00:00:00,2020
+9265902,PAC ALTAIR,General Cargo Ship,20471,10354,2003,Singapore,,Pacific Carriers Ltd,Singapore,Altair Maritime Pte Ltd,Altair Maritime Pte Ltd,Singapore,Chattogram,Bangladesh,2020-06-01 00:00:00,2020
+9265914,PAC ALKAID,General Cargo Ship,20471,10414,2003,Singapore,,Pacific Carriers Ltd,Singapore,PACC Container Line Pte Ltd,Alkaid Maritime Pte Ltd,Singapore,Gadani,Pakistan,2020-10-01 00:00:00,2020
+9262974,PAC ACRUX,General Cargo Ship,20471,10626,2003,Singapore,,Pacific Carriers Ltd,Singapore,PACC Ship Managers Pte Ltd,Acrux Maritime Pte Ltd,Singapore,Alang,India,2020-11-01 00:00:00,2020
+9151307,KOTA HADIAH,Container Ship (Fully Cellular),13272,5313,1997,Singapore,,Pacific International Lines,Singapore,Pacific International Lines,Pacific International Lines,Singapore,Chattogram,Bangladesh,2020-01-01 00:00:00,2020
+9226839,KOTA JUTA,Container Ship (Fully Cellular),18502,7621,2001,Singapore,Marshall Islands,Pacific International Lines,Singapore,Pacific International Lines,Pacific International Lines,Singapore,Chattogram,Bangladesh,2020-07-01 00:00:00,2020
+8913617,SUN,Crude/Oil Products Tanker,28223,8773,1992,St Kitts & Nevis,Unknown,Seatac Holdings Pte Ltd,Singapore,Seatac Holdings Pte Ltd,Seatac Holdings Pte Ltd,Singapore,Alang,India,2020-06-01 00:00:00,2020
+9051375,COUGAR ACE,Vehicles Carrier,55328,13767,1993,Unknown,Singapore,Singapore Shipping Corp Ltd,Singapore,Mitsui OSK Lines Ltd,MOB Cougar,Singapore,Alang,India,2020-06-01 00:00:00,2020
+9128570,GREEN HARVEST,Wood Chips Carrier,40330,10639,1995,Singapore,,Soon Fong Shipping Pte Ltd,Singapore,Asia Pacific Shipmanagement,Soon Fong Shipping Pte Ltd,Singapore,Gadani,Pakistan,2020-09-01 00:00:00,2020
+9123611,KHAN S,Bulk Carrier,26381,7585,1996,Panama,,Star Pacific Line Private Limited,Singapore,Star Pacific Line Pte Ltd,Khan S Inc,Panama,Gadani,Pakistan,2020-10-01 00:00:00,2020
+8908868,TAILWIND,General Cargo Ship,11542,5413,1995,Liberia,,Timchenko family,Singapore,Anmax Trading Corp Pte Ltd,Tailwind Shipping & Trading,Liberia,Aliaga,Turkey,2020-09-01 00:00:00,2020
+7908160,TRINITY EXPLORER,Research Survey Vessel,1466,960,1980,Indonesia,,Trinity Offshore Pte Ltd,Singapore,Trinity Offshore Pte Ltd,Trinity Offshore Inc-BVI,British Virgin Islands,Chattogram,Bangladesh,2020-01-01 00:00:00,2020
+7349443,TRINITY LONDON,Platform Supply Ship,1321,1380,1974,Mongolia,,Trinity Offshore Pte Ltd,Singapore,Trinity Offshore Pte Ltd,Trinity Discovery Inc,British Virgin Islands,Alang,India,2020-01-01 00:00:00,2020
+7616781,BOLD ENDURANCE,Cable Layer,9611,6011,1979,Belize,Singapore,Trinity Offshore Pte Ltd,Singapore,Trinity Offshore Pte Ltd,Trinity Endurance Inc,Singapore,Chattogram,Bangladesh,2020-01-01 00:00:00,2020
+9048574,WAHAN 1,Container Ship (Fully Cellular),17138,6974,1993,Palau,Singapore,Wan Hai Lines Ltd,Singapore,Wan Hai Lines Ltd,Wan Hai Lines Singapore Pte,Singapore,Alang,India,2020-11-01 00:00:00,2020
+7020346,LOBELIA,Fishing Vessel,1052,,1971,South Africa,,Irvin & Johnson Ltd,South Africa,Irvin & Johnson Ltd,Irvin & Johnson Ltd,South Africa,Cape Town,South Africa,2020-09-01 00:00:00,2020
+8512281,SOVEREIGN,Passenger/Cruise,73529,28797,1987,Malta,,Pullmantur Holdings SL,Spain,Celebrity Cruises Inc,Pullmantur Cruises Sovereign,Malta,Aliaga,Turkey,2020-07-01 00:00:00,2020
+8819500,MONARCH,Passenger/Cruise,73937,28800,1991,Malta,,Pullmantur Holdings SL,Spain,Pullmantur Cruises Ship Mgmt,Pullmantur Cruises Monarch Ltd,Malta,Aliaga,Turkey,2020-07-01 00:00:00,2020
+8011005,LMS DUNHINDA,Products Tanker ,1637,1071,1980,Sri Lanka,,Sri Lanka Shipping Co Ltd,Sri Lanka,Lanka Maritime Services Ltd,Lanka Maritime Services Ltd,Sri Lanka,Chattogram,Bangladesh,2020-12-01 00:00:00,2020
+8411683,CAPRICORN,Anchor Handling Tug Supply,1413,1650,1985,Sri Lanka,,Sri Lanka Shipping Co Ltd,Sri Lanka,Sri Lanka Shipping Co Ltd,Sri Lanka Shipping Co Ltd,Sri Lanka,Chattogram,Bangladesh,2020-01-01 00:00:00,2020
+9188099,STENA SIRITA,Shuttle Tanker,76836,23862,1999,Bahamas,,Stena AB,Sweden,Standard Marine Tonsberg AS,Stena Ugland Shuttle Tanker II,Norway,Aliaga,Turkey,2020-01-01 00:00:00,2020
+7616779,CALAMITY JANE,Trenching Support Vessel,10643,8236,1978,Malta,,Allseas Group SA,Switzerland,Allseas Marine Contractors SA,Calamity Jane Transport Chtrg,Belgium,Aliaga,Turkey,2020-10-01 00:00:00,2020
+9255191,OCCITAN STAR,Bulk Carrier,17944,7793,2002,Bahamas,,SGM Shipping Services SA,Switzerland,SGM Shipping Services SA,Occitan Bulkers Ltd,Bahamas,Alang,India,2020-03-01 00:00:00,2020
+8206284,ZARA,General Cargo Ship,5869,2991,1983,Togo,,Rasha Shipping Limited,Syria,Buzzard Marine SA,A T Mar Ltd SA,Panama,Gadani,Pakistan,2020-11-01 00:00:00,2020
+6922327,AL FAHED,Livestock Carrier,2511,1801,1969,Tanzania (Zanzibar),,Star Marine KN,Syria,Gulf Coast Shipping & Trading,Mazyd Shipping Co SA,Marshall Islands,Gadani,Pakistan,2020-11-01 00:00:00,2020
+8210039,JI TAI NO. 8,Crude Oil Tanker,3266,2091,1982,Cook Islands,Mongolia,Bao He International Limited,Taiwan,Bao He International Ltd,Bao He International Ltd,Seychelles,Chattogram,Bangladesh,2020-01-01 00:00:00,2020
+9143348,UNI,Container Ship (Fully Cellular),14796,5129,1997,Comoros,Panama,Evergreen Marine Corp,Taiwan,Evergreen Marine Corp,Gaining Enterprise SA,Panama,Alang,India,2020-01-01 00:00:00,2020
+9143362,ARISE,Container Ship (Fully Cellular),14796,5129,1997,Palau,Panama,Evergreen Marine Corp,Taiwan,Evergreen Marine Corp,Gaining Enterprise SA,Panama,Alang,India,2020-10-01 00:00:00,2020
+9134244,DECENT,Container Ship (Fully Cellular),52090,21731,1997,St Kitts & Nevis,Singapore,Evergreen Marine Corp,Taiwan,Evergreen Marine Corp,Evergreen Marine Singapore,Singapore,Alang,India,2020-11-01 00:00:00,2020
+9134282,DIVINE,Container Ship (Fully Cellular),52090,21731,1998,Comoros,Singapore,Evergreen Marine Corp,Taiwan,Evergreen Marine Corp,Evergreen Marine Singapore,Singapore,Alang,India,2020-08-01 00:00:00,2020
+9134256,DELUXE,Container Ship (Fully Cellular),52090,21820,1998,Palau,Singapore,Evergreen Marine Corp,Taiwan,Evergreen Marine Corp,Evergreen Marine Singapore,Singapore,Alang,India,2020-10-01 00:00:00,2020
+9142174,EVER DEVELOP,Container Ship (Fully Cellular),52090,21820,1998,Panama,,Evergreen Marine Corp,Taiwan,Evergreen Marine Corp,Greencompass Marine SA,Panama,Alang,India,2020-01-01 00:00:00,2020
+9142198,DYNAMIC,Container Ship (Fully Cellular),52090,21820,1998,Panama,,Evergreen Marine Corp,Taiwan,Evergreen Marine Corp,Greencompass Marine SA,Panama,Alang,India,2020-02-01 00:00:00,2020
+9004841,RUBY EXPRESS I,Products Tanker ,1998,1081,1990,Panama,,Fastsuccess International Inc,Taiwan,Shan Ship Management Pvt Ltd,Fastsuccess International Inc,Samoa,Gadani,Pakistan,2020-10-01 00:00:00,2020
+8418904,LOTUS,Products Tanker ,5266,3312,1985,Sierra Leone,,Fastsuccess International Inc,Taiwan,Fastsuccess International Inc,Fastsuccess International Inc,Samoa,Alang,India,2020-01-01 00:00:00,2020
+8995457,ZHONG TAI NO. 1,Fishing Vessel,1087,,1991,China  ,,Kando Maritime Co Ltd,Taiwan,Kando Maritime Co Ltd,Profit Peak Inc,Samoa,Unknown,China,2020-09-01 00:00:00,2020
+8025018,LIEN LI 57,Products Tanker,4750,2754,1981,Panama,,Lien Li Ocean S.A.,Taiwan,Yisheng Shipping Co Ltd,Yisheng Shipping Co Ltd,Hong Kong ,Chattogram,Bangladesh,2020-01-01 00:00:00,2020
+9123972,HALUS,Bulk Carrier,17040,6034,1995,Hong Kong,,Unison Marine Corp,Taiwan,Unison Marine Corp,Luckystar Shipping HK Co Ltd,Hong Kong,Chattogram,Bangladesh,2020-10-01 00:00:00,2020
+9039561,WAN CHAI 4,Container Ship (Fully Cellular),17136,6884,1992,Comoros,Singapore,Wan Hai Lines Ltd,Taiwan,Wan Hai Lines Ltd,Wan Hai Lines Singapore Pte,Singapore,Alang,India,2020-07-01 00:00:00,2020
+9048586,WAHAN,Container Ship (Fully Cellular),17138,6923,1993,Palau,Singapore,Wan Hai Lines Ltd,Taiwan,Wan Hai Lines Ltd,Wan Hai Lines Singapore Pte,Singapore,Alang,India,2020-07-01 00:00:00,2020
+9203629,RAMBO,Container Ship (Fully Cellular),64005,22885,2001,St Kitts & Nevis,,Yang Ming Marine Transport,Taiwan,Yang Ming Marine Transport,Yang Ming Liberia Corp,Liberia,Alang,India,2020-06-01 00:00:00,2020
+9203631,PINE,Container Ship (Fully Cellular),64005,22885,2001,Comoros,Liberia,Yang Ming Marine Transport,Taiwan,Yang Ming Marine Transport,All Oceans Transportation Inc,Liberia,Alang,India,2020-08-01 00:00:00,2020
+9224489,CYPRESS,Container Ship (Fully Cellular),64254,23110,2001,Comoros,Liberia,Yang Ming Marine Transport,Taiwan,Yang Ming Marine Transport,All Oceans Transportation Inc,Liberia,Alang,India,2020-03-01 00:00:00,2020
+9224491,GREEN,Container Ship (Fully Cellular),64254,23110,2001,Comoros,Liberia,Yang Ming Marine Transport,Taiwan,Yang Ming Marine Transport,All Oceans Transportation Inc,Liberia,Alang,India,2020-08-01 00:00:00,2020
+9015395,ALROOH,Products Tanker ,2924,1295,1990,Tanzania (Zanzibar),,ASAS Group of Companies,Tanzania,Asas Petroleum Products,Asas Petroleum Products,United Arab Emirates,Gadani,Pakistan,2020-02-01 00:00:00,2020
+9187289,NPS CENTURY,Bulk Carrier,87523,22159,2000,Panama,,Double A Power Group,Thailand,National Power Supply PCL,NPS Cape Shipping SA,Panama,Chattogram,Bangladesh,2020-05-01 00:00:00,2020
+9151034,KULNATEE,General Cargo Ship,8610,4618,1997,Thailand,,Gunkul Engineering Co Ltd,Thailand,Gunkul Trading & Agency Co Ltd,Kulnatee Co Ltd,Thailand,Gadani,Pakistan,2020-11-01 00:00:00,2020
+8614807,PK MARINE 1,Products Tanker,985,691,1987,Thailand,,Nathalin Co Ltd,Thailand,Nathalin Co Ltd,NTL Marine Co Ltd,Thailand,Chattogram,Bangladesh,2020-12-01 00:00:00,2020
+9047233,VE 3,Products Tanker,1005,733,1992,Thailand,,Nathalin Co Ltd,Thailand,Nathalin Co Ltd,NTL Marine Co Ltd,Thailand,Chattogram,Bangladesh,2020-09-01 00:00:00,2020
+9108142,EAGLE 1,"FSO, Oil",53639,15630,1996,St Kitts & Nevis,Thailand,Nathalin Co Ltd,Thailand,Nathalin Shipping Ltd,Prima Marine PCL,Thailand,Gadani,Pakistan,2020-11-01 00:00:00,2020
+8712257,VE 2,Products Tanker,929,682,1987,Thailand,,Nathalin Company Limited,Thailand,Nathalin Co Ltd,NTL Marine Co Ltd,Thailand,Chattogram,Bangladesh,2020-01-01 00:00:00,2020
+7637527,UTHAIWAN,Refrigerated Cargo Ship,2989,1748,1977,Mongolia,Cameroon,PK Shipping & Agency Co Ltd,Thailand,PK Shipping & Agency Co Ltd,PK Shipping & Agency Co Ltd,Thailand,Chattogram,Bangladesh,2020-09-01 00:00:00,2020
+8710170,PP 4,LPG Tanker,699,,1987,Thailand,,PP Global Line Co Ltd,Thailand,PP Global Line Co Ltd,PP Global Line Co Ltd,Thailand,Chattogram,Bangladesh,2020-11-01 00:00:00,2020
+9110949,SAAB,Container Ship (Fully Cellular),13188,6232,1995,Palau,Singapore,Regional Container Lines PCL,Thailand,Regional Container Lines PCL,Regional Container Lines PCL,Thailand,Alang,India,2020-02-01 00:00:00,2020
+9110937,SANTA,Container Ship (Fully Cellular),13188,6257,1995,St Kitts & Nevis,Singapore,Regional Container Lines PCL,Thailand,Regional Container Lines PCL,Regional Container Lines Pte,Singapore,Gadani,Pakistan,2020-10-01 00:00:00,2020
+9074121,BOSPORUS,"FSO, Oil",53773,14142,1994,Panama,Thailand,Thai Oil PCL,Thailand,Khunnathee Co Ltd,Top Nautical Star Co Ltd,Thailand,Chattogram,Bangladesh,2020-11-01 00:00:00,2020
+8805250,V. L. 5,Products Tanker ,1228,1028,1988,Thailand,,VL Enterprise PLC,Thailand,VL Enterprise PLC,VL Enterprise PLC,Thailand,Chattogram,Bangladesh,2020-01-01 00:00:00,2020
+8710687,AGAT,Heavy Load Carrier,7876,3790,1988,Comoros,,AGS Union Insaat Turizm Tasimacilik Dis Ticaret Limited Sirketi ,Turkey,Agat Ship Management Inc,Capital Marina Shipping Inc,Panama,Aliaga,Turkey,2020-06-01 00:00:00,2020
+9004217,PURKI,Container Ship (Fully Cellular),10396,4950,1992,Malta,,Akar Deniz Tasimaciligi ve Tic,Turkey,Akar Deniz Tasimaciligi ve Tic,Purki Shipping & Trading Co,Malta,Alang,India,2020-02-01 00:00:00,2020
+9106443,TANGER A,Container Ship (Fully Cellular),8633,4650,1995,Morocco,,Arkas Holding AS,Turkey,Arkas Denizcilik ve Nakliyat,Maroc Feedering SA,Morocco,Aliaga,Turkey,2020-08-01 00:00:00,2020
+8109096,ARSLAN,General Cargo Ship,2584,1467,1982,Palau,,Arslan Shipping & Trade Co Ltd,Turkey,Arslan Shipping & Trade Co Ltd,Arslan Shipping & Trade Co Ltd,St Kitts & Nevis,Aliaga,Turkey,2020-06-01 00:00:00,2020
+8916499,NARLICA,Chemical/Products Tanker,3679,2240,1992,Turkey,,Beykim Petrolculuk Gemi,Turkey,Beykim Petrolculuk Gemi,Beykim Petrolculuk Gemi,Turkey,Alang,India,2020-12-01 00:00:00,2020
+9149653,LADY MICKEY,General Cargo Ship,19354,7899,1997,Liberia,,Deval Transport AS,Turkey,Devbulk Trading Ltd,Lady Esen Shipping Ltd,Marshall Islands,Chattogram,Bangladesh,2020-10-01 00:00:00,2020
+9000716,ELIT,General Cargo Ship,8940,4360,1992,Comoros,,Elit Denizcilik Sanayi,Turkey,Elit Denizcilik Sanayi,Elit Denizcilik Sanayi,Turkey,Gadani,Pakistan,2020-09-01 00:00:00,2020
+9017800,SUZZY,General Cargo Ship,2598,1583,1990,Panama,,Genckaptan Denizcilik Gemi,Turkey,Genckaptan Denizcilik Gemi,BBS Shipping Corp,Marshall Islands,Aliaga,Turkey,2020-06-01 00:00:00,2020
+8230352,DAYLIGHT,General Cargo Ship,2457,969,1978,Panama,,Gondol Marine Shpg & Trading,Turkey,Daylight Shipping & Trading,Daylight Shipping & Trading,St Kitts & Nevis,Aliaga,Turkey,2020-03-01 00:00:00,2020
+8125131,BUGRA TOMBA,General Cargo Ship,2701,1440,1984,Turkey,,Hamer Balikcilik ve Denizcilik,Turkey,Hamer Balikcilik ve Denizcilik,Hamer Balikcilik ve Denizcilik,Turkey,Aliaga,Turkey,2020-07-01 00:00:00,2020
+9214939,KARADENIZ POWERSHIP RAGIP BEY,Anchor Handling Tug Supply,1508,1470,1999,Sierra Leone,Liberia,Karadeniz Holding AS,Turkey,Karmarine Karadeniz Denizcilik,Karpowership Americas Co Ltd,Marshall Islands,Chattogram,Bangladesh,2020-01-01 00:00:00,2020
+8415548,KARADENIZ POWERSHIP REMZI BEY,Platform Supply Ship,1296,1577,1986,Liberia,,Karadeniz Holding AS,Turkey,Karmarine Karadeniz Denizcilik,Karpowership Americas Co Ltd,Marshall Islands,Gadani,Pakistan,2020-09-01 00:00:00,2020
+9004308,KARADENIZ POWERSHIP SUAT BEY,Chemical/Products Tanker,3853,2348,1992,Liberia,,Karadeniz Holding AS,Turkey,Karmarine Karadeniz Denizcilik,Karpowership Orient Co Ltd,Marshall Islands,Alang,India,2020-02-01 00:00:00,2020
+8819718,KARADENIZ POWERSHIP ENIS BEY,Power Station Vessel,3987,2361,1989,Pakistan,,Karadeniz Holding AS,Turkey,Karmarine Karadeniz Denizcilik,Karpak Pvt Ltd,Pakistan,Gadani,Pakistan,2020-12-01 00:00:00,2020
+9374258,KARADENIZ POWERSHIP SADUN BORO,Anchor Handling Tug Supply,4515,3948,2008,Sierra Leone,,Karadeniz Holding AS,Turkey,Karmarine Karadeniz Denizcilik,Karpowership Americas Co Ltd,Marshall Islands,Alang,India,2020-11-01 00:00:00,2020
+7364390,KUMDAS 2,General Cargo Ship,989,,1974,Turkey,,Kumdas Denizcilik Insaat,Turkey,Kumdas Denizcilik Insaat,Hun Denizcilik Hizmetleri,Turkey,Aliaga,Turkey,2020-09-01 00:00:00,2020
+8009533,MEGA STAR,Bulk Carrier,8208,,1981,Turkey,,Megatrans Uluslararasi Deniz,Turkey,Megatrans Uluslararasi Deniz,Megatrans Uluslararasi Deniz,Turkey,Aliaga,Turkey,2020-06-01 00:00:00,2020
+7531369,NAZLIKIZ,"General Cargo Ship, Self-discharging",6355,3546,1978,Comoros,Turkey,Yenal Gemi Acenteligi AS,Turkey,Yenal Gemi Isletmeciligi AS,BAF Bunkering & Shipping S,Panama,Gadani,Pakistan,2020-08-01 00:00:00,2020
+7531357,NAZLICAN,General Cargo Ship,8383,3898,1978,Panama,Turkey,Yenal Gemi Acenteligi AS,Turkey,Yenal Gemi Acenteligi AS,BAF Bunkering & Shipping S,Panama,Gadani,Pakistan,2020-09-01 00:00:00,2020
+7802122,NAZLIM,General Cargo Ship,8547,4900,1979,Comoros,Turkey,Yenal Gemi Acenteligi AS,Turkey,Yenal Gemi Isletmeciligi AS,Nazlim Gemi Isletmeciligi AS,Turkey,Gadani,Pakistan,2020-10-01 00:00:00,2020
+7639642,MY ROSE,General Cargo Ship,2361,1376,1978,Tanzania (Zanzibar),,Zeb Denizcilik Tasimaciligi,Turkey,Zeb Denizcilik Tasimaciligi,YKSU Shipping Co Inc,Marshall Islands,Aliaga,Turkey,2020-11-01 00:00:00,2020
+8942577,CATHARINE,General Cargo Ship,3969,1799,1969,Comoros,,Black Sea Shipping Management,Ukraine,Black Sea Shipping Management,Paladin Shipping Co Ltd,Belize,Aliaga,Turkey,2020-12-01 00:00:00,2020
+8230405,BELLATRIX,General Cargo Ship,2457,1273,1978,Unknown,,MD Shipping Co,Ukraine,MD Shipping Co,Bellatrix Shipping Ltd-BZE,Belize,Aliaga,Turkey,2020-05-01 00:00:00,2020
+7724057,WISMAR,Trailing Suction Hopper Dredger,2082,1894,1978,Comoros,,MD Shipping Company LLC,Ukraine,MD Shipping Co,Ligos EU Invest Ltd,United Kingdom,Aliaga,Turkey,2020-01-01 00:00:00,2020
+9109902,ALBY MELODY,Bulk Carrier,26047,7539,1995,Panama,,NVL Trans Shipping Limited,Ukraine,DCT Shipping Ltd,Al&By Marine SA,Panama,Gadani,Pakistan,2020-08-01 00:00:00,2020
+8724303,MERRY FISHER,Fishing Vessel,6392,5050,1986,St Kitts & Nevis,Ukraine,Sevastopol Fishing Co,Ukraine,Sevastopol Fishing Co,Sevastopol Fishing Co,Ukraine,Aliaga,Turkey,2020-06-01 00:00:00,2020
+7931545,NMS 401,Diving Support Vessel,1190,959,1980,Unknown,United Arab Emirates,Abu Dhabi National Oil Co,United Arab Emirates,ADNOC Logistics & Services,ADNOC Logistics & Services,United Arab Emirates,Gadani,Pakistan,2020-02-01 00:00:00,2020
+8129137,BARRACUDA,Diving Support Vessel,1275,1258,1982,United Arab Emirates,,Abu Dhabi National Oil Company,United Arab Emirates,Las Oil Trading,Las Oil Trading,United Arab Emirates,Gadani,Pakistan,2020-02-01 00:00:00,2020
+9016911,AEGEAN II,Chemical/Products Tanker,5677,3535,1994,Panama,,Aegean Marine Shipping Inc,United Arab Emirates,Aegean Marine Shipping Inc,Aegean Marine Shipping Inc,Marshall Islands,Alang,India,2020-12-01 00:00:00,2020
+9001100,SOULINA,Products Tanker,2467,1284,1990,Tanzania (Zanzibar),,Ashraf Al Shareef General Trdg,United Arab Emirates,Ashraf Al Shareef General Trdg,PH Marine International Inc,Panama,Gadani,Pakistan,2020-04-01 00:00:00,2020
+9124574,AHLAM,Container Ship (Fully Cellular),4628,2471,1995,Panama,,Brilliance Lines Inc,United Arab Emirates,Brilliance Lines Inc,Buoyant Shipping Inc,Marshall Islands,Alang,India,2020-07-01 00:00:00,2020
+9217553,ALTONIA,Container Ship (Fully Cellular),16803,7867,2000,Liberia,,Emirates Shipping Line DMCEST,United Arab Emirates,Emirates Shipping Line DMCEST,Emirates Shipping Line DMCEST,United Arab Emirates,Alang,India,2020-06-01 00:00:00,2020
+9036911,ATTAIR,Products Tanker,4842,2484,1993,Panama,,Gulf Energy Ltd,United Arab Emirates,Emirates Shipping Co LLC,GEL Oasis Maritime Inc,British Virgin Islands,Gadani,Pakistan,2020-03-01 00:00:00,2020
+8762898,NAASHI,"Offshore Construction Vessel, jack up",2910,,1980,Panama,,Gulf Marine Services,United Arab Emirates,Gulf Marine Services,Offshore Logistics Investment,Panama,Alang,India,2020-03-01 00:00:00,2020
+9116371,ASPAM 1,Chemical/Products Tanker,28414,9825,1996,Panama,,Gulf Petrochem FZC,United Arab Emirates,Celestial Ship Management Pte,GP T1 Shipping Inc,Panama,Alang,India,2020-01-01 00:00:00,2020
+7638868,OCEAN PRESTIGE,Products Tanker ,1247,1080,1977,Panama,,Hassan Si,United Arab Emirates,Hassan SI,Hassan SI,United Arab Emirates,Gadani,Pakistan,2020-01-01 00:00:00,2020
+7413646,AALAAE,General Cargo Ship,1586,830,1974,Tanzania (Zanzibar),,Mohammed AS,United Arab Emirates,Mohammed AS,Mohammed AS,United Arab Emirates,Gadani,Pakistan,2020-09-01 00:00:00,2020
+9157777,CALMA,Products Tanker,58141,17002,1998,Comoros,Liberia,Muhit Maritime FZE,United Arab Emirates,Muhit Maritime FZE,Baht Shipping Corp,Liberia,Gadani,Pakistan,2020-12-01 00:00:00,2020
+8019291,BITUMEN QUEEN,Products Tanker,2523,1373,1981,Palau,Tanzania,Prime Tankers LLC,United Arab Emirates,Global Tankers Pvt Ltd,Star Shipping Inc,Panama,Alang,India,2020-10-01 00:00:00,2020
+8863484,ROYAL PRINCESS,Asphalt/Bitumen Tanker,3909,2245,1989,Panama,,Prime Tankers LLC,United Arab Emirates,Prime Tankers LLC,Royal Princess Shipping Inc,Panama,Alang,India,2020-11-01 00:00:00,2020
+7904231,MAZAYA 6,Products Tanker ,2142,1286,1979,Panama,,Qimat Al Mazaya Fuel Supply Services,United Arab Emirates,Qimat Al Mazaya Fuel Supply,S&S Petroleum Co Inc-SKN,St Kitts & Nevis,Gadani,Pakistan,2020-12-01 00:00:00,2020
+7423500,ATLAS,Offshore Tug/Supply Ship,821,736,1975,Unknown,,Seaport International Shipping,United Arab Emirates,Seaport International Shipping,Seaport International Shipping,United Arab Emirates,Alang,India,2020-10-01 00:00:00,2020
+8110978,C-TRAVELLER,Platform Supply Ship,1919,1535,1983,Panama,,Seaport International Shipping,United Arab Emirates,SIS Trading Inc,SIS Trading Inc,Liberia,Alang,India,2020-10-01 00:00:00,2020
+8864189,ASPHALT ALLIANCE,Asphalt/Bitumen Tanker,3800,2385,1992,Gabon,Panama,Silver Star Ship Management,United Arab Emirates,Silver Star Ship Management,Galant Shipping Inc,Panama,Alang,India,2020-12-01 00:00:00,2020
+7390662,AADITYA 1,Platform Supply Ship,669,636,1974,Tanzania (Zanzibar),,Team Shipping Company LLC,United Arab Emirates,Elite Marine Services Inc,Patel BK,United Arab Emirates,Alang,India,2020-03-01 00:00:00,2020
+9134672,BLPL GRACE,Container Ship (Fully Cellular),16801,7771,1997,Panama,,Transworld Group,United Arab Emirates,BLPL Singapore Pte Ltd,BLPL Singapore Pte Ltd,Singapore,Chattogram,Bangladesh,2020-06-01 00:00:00,2020
+8519447,QUEEN-ZEIN,General Cargo Ship,5548,2260,1987,Palau,,United Commercial Co & Mgmt SA,United Arab Emirates,United Commercial Co & Mgmt SA,United Commercial Co & Mgmt SA,St Kitts & Nevis,Alang,India,2020-02-01 00:00:00,2020
+7404138,MARD,Anchor Handling Tug Supply,700,763,1975,Panama,,Whitesea Shipping & Supply Company LLC,United Arab Emirates,Whitesea Shipping & Supply LLC,Echo Maritime Ltd,United Kingdom,Alang,India,2020-03-01 00:00:00,2020
+7726201,DENAS,Products Tanker ,2467,1374,1980,Panama,,Zad Fuel Company,United Arab Emirates,Malih HKM,Malih HKM,United Arab Emirates,Alang,India,2020-01-01 00:00:00,2020
+7424724,MARKAB,Research Survey Vessel,1594,1453,1976,Panama,,Atlantic Marine & Aviation LLP,United Kingdom,Jasmund Shipping GmbH & Co KG,Atlantic Voyager Holding Ltd,Gibraltar,Alang,India,2020-06-01 00:00:00,2020
+9242649,VICTORY,Container Ship (Fully Cellular),17189,8950,2002,St Kitts & Nevis,Liberia,Borealis Maritime Ltd,United Kingdom,Borealis Maritime Ltd,Bomar Seven LLC,Marshall Islands,Alang,India,2020-08-01 00:00:00,2020
+8303032,PUTFORD ENTERPRISE,Standby Safety Vessel,1793,,1985,United Kingdom,,Boston Putford Offshore Safety,United Kingdom,Boston Putford Offshore Safety,Boston Putford Offshore Safety,United Kingdom,Grenaa,Denmark,2020-05-01 00:00:00,2020
+9216365,COMPACT,Container Ship (Fully Cellular),14278,6423,2001,St Kitts & Nevis,United Kingdom,Downing LLP,United Kingdom,X-Press Feeders,Garthcliff Shipping Ltd,United Kingdom,Gadani,Pakistan,2020-09-01 00:00:00,2020
+5095804,EARL OF ZETLAND,"Restaurant Vessel, Stationary",548,,1939,Unknown,,Festive Limited,United Kingdom,Unknown,Festive,United Kingdom,Unknown,United Kingdom,2020-10-01 00:00:00,2020
+7504249,SEA EXPLORER,Research Survey Vessel,1385,,1976,Bahamas,,Gardline Shipping Ltd,United Kingdom,Gardline Marine Sciences Ltd,Gardline Shipping Ltd,United Kingdom,Ghent,Belgium,2020-05-01 00:00:00,2020
+9192430,UTRILLO,Container Ship (Fully Cellular),25803,11676,1999,Liberia,Cyprus,Global Ship Lease Inc,United Kingdom,CMA CGM SA The French Line,Global Ship Lease 4 Ltd,Cyprus,Alang,India,2020-07-01 00:00:00,2020
+8209377,MYSTIC VIKING,Platform Supply Ship,2299,2424,1983,Bahamas,,Nautilus Marine Services PLC,United Kingdom,NMS Viking Inc,NMS Viking Inc,Marshall Islands,Unknown,United States of America,2020-05-01 00:00:00,2020
+8601408,OCEANIC PINTAIL,Nuclear Fuel Carrier,5271,3685,1987,United Kingdom,,Nuclear Decommissioning,United Kingdom,Pacific Nuclear Transport Ltd,Nuclear Decommissioning,United Kingdom,Leith,United Kingdom,2020-11-01 00:00:00,2020
+8420244,SEVEN PELICAN,Offshore Support Vessel,4892,4892,1985,Bahamas,,Subsea 7 Int'l Contracting Ltd,United Kingdom,Subsea 7 Int'l Contracting Ltd,Subsea 7 Offshore Resources UK,United Kingdom,Aliaga,Turkey,2020-05-01 00:00:00,2020
+9437373,FALCON,Research Survey Vessel,4461,3443,2007,St Kitts & Nevis,Singapore,Swire & Sons Ltd,United Kingdom,Swire Pacific Offshore Ops,Swire Pacific Offshore Ops,Singapore,Alang,India,2020-01-01 00:00:00,2020
+8809189,MELANESIAN PRIDE,Container Ship (Fully Cellular),10357,5607,1990,Hong Kong,,Swire & Sons Ltd,United Kingdom,China Navigation Co Pte Ltd,China Navigation Co Pte Ltd,Singapore,Alang,India,2020-06-01 00:00:00,2020
+8901705,FORUM SAMOA4,Container Ship (Fully Cellular),10350,5719,1991,Hong Kong,,Swire & Sons Ltd,United Kingdom,China Navigation Co Pte Ltd,China Navigation Co Pte Ltd,Singapore,Alang,India,2020-07-01 00:00:00,2020
+8809191,MELANESIAN CHIEF,Container Ship (Fully Cellular),10352,5727,1990,Hong Kong,,Swire & Sons Ltd,United Kingdom,China Navigation Co Pte Ltd,China Navigation Co Pte Ltd,Singapore,Alang,India,2020-09-01 00:00:00,2020
+9103104,KWEILIN,General Cargo Ship,18468,9395,1995,Hong Kong ,,Swire & Sons Ltd,United Kingdom,China Navigation Co Pte Ltd,China Navigation Co Pte Ltd,Singapore,Alang,India,2020-05-01 00:00:00,2020
+9103116,KWANGSI,General Cargo Ship,18468,9546,1995,Hong Kong ,,Swire & Sons Ltd,United Kingdom,China Navigation Co Pte Ltd,China Navigation Co Pte Ltd,Singapore,Alang,India,2020-08-01 00:00:00,2020
+9149902,TRADER,Container Ship (Fully Cellular),16177,7729,1999,St Kitts & Nevis,Panama,The Libra Group,United Kingdom,Orient Overseas Container Line,Gdansk Trader Shipping Ltd,British Virgin Islands,Alang,India,2020-02-01 00:00:00,2020
+8753770,SCOL,"Drilling Rig, jack up",4723,5841,1981,Liberia,,Valaris Plc,United Kingdom,Valaris Plc,ENSCO Offshore Co,United States Of America,Alang,India,2020-11-01 00:00:00,2020
+8753811,COOL,"Drilling Rig, jack up",4699,6298,1982,Gabon,Liberia,Valaris Plc,United Kingdom,Valaris Plc,ENSCO Offshore International,Cayman Islands,Alang,India,2020-11-01 00:00:00,2020
+8753861,ENERGY 1,"Drilling Rig, jack up",6023,7042,1982,Palau,Liberia,Valaris Plc,United Kingdom,Valaris Plc,ENSCO Offshore International,Cayman Islands,Alang,India,2020-01-01 00:00:00,2020
+8765163,MASTER A,"Drilling Rig, jack up",8310,10412,2002,St Kitts & Nevis,Liberia,Valaris Plc,United Kingdom,Valaris Plc,ENSCO Offshore International,Cayman Islands,Alang,India,2020-12-01 00:00:00,2020
+8764200,NSC 6002,"Drilling Rig, semi Submersible",14559,10666,2001,Cameroon,Marshall Islands,Valaris Plc,United Kingdom,Valaris Plc,ENSCO Intercontinental GmbH,Switzerland,Aliaga,Turkey,2020-03-01 00:00:00,2020
+8751033,5004,"Drilling Rig, semi Submersible",13062,12292,1982,Togo,Liberia,Valaris Plc,United Kingdom,Valaris Plc,ENSCO Global IV Ltd,British Virgin Islands,Aliaga,Turkey,2020-05-01 00:00:00,2020
+8769597,ENSCO 8502,"Drilling Rig, semi Submersible",19377,18582,2010,Liberia,,Valaris Plc,United Kingdom,Valaris Plc,ENSCO Worldwide GmbH,Switzerland,Aliaga,Turkey,2020-09-01 00:00:00,2020
+8764482,SMILE 6,"Drilling Rig, semi Submersible",27386,23063,1999,Comoros,Liberia,Valaris Plc,United Kingdom,Valaris Plc,ENSCO Deepwater USA II LLC,United States Of America,Alang,India,2020-01-01 00:00:00,2020
+7928029,URGENCE,General Cargo Ship,1425,,1981,Panama,,Wakes & Company Limited,United Kingdom,Urgence Ltd,Urgence Ltd,Marshall Islands,Aliaga,Turkey,2020-02-01 00:00:00,2020
+9077123,APL THAILAND,Container Ship (Fully Cellular),64502,24250,1995,Liberia,,APL LLC,United States Of America,APL LLC,APL LLC,United States Of America,Alang,India,2020-06-01 00:00:00,2020
+9079157,BOTHNIA I,Bulk Carrier,27078,9912,1995,St Kitts & Nevis,Liberia,Bulk Partners Ltd,United States Of America,Nordic Bulk Carriers A/S,Nordic Bulk Bothnia Ltd,Marshall Islands,Alang,India,2020-01-01 00:00:00,2020
+9053878,CARNIVAL IMAGINATION,Passenger/Cruise,70367,29102,1995,Bahamas,,Carnival Corp,United States Of America,Carnival Cruise Line,Carnival Cruise Line,United States Of America,Aliaga,Turkey,2020-09-01 00:00:00,2020
+9087489,CARNIVAL INSPIRATION,Passenger/Cruise,70367,30623,1996,Bahamas,,Carnival Corp,United States Of America,Carnival Cruise Line,Carnival Cruise Line,United States Of America,Aliaga,Turkey,2020-08-01 00:00:00,2020
+8700773,CARNIVAL FANTASY,Passenger/Cruise,70367,30896,1990,Panama,,Carnival Corp,United States Of America,Carnival Cruise Line,Carnival Cruise Line,United States Of America,Aliaga,Turkey,2020-07-01 00:00:00,2020
+8757362,ENERGY PRODUCER 3,"Production Platform, jack up",3889,4285,1982,Panama,,Coastal Energy Co,United States Of America,Mopu Holdings Singapore Pte,Mopu Holdings Singapore Pte,Singapore,Unknown,Unkown,2020-10-01 00:00:00,2020
+8636324,ATKA,"Deck Cargo Pontoon, non propelled",5756,,1973,United States Of America,,Crowley Maritime Corp,United States Of America,Crowley Marine Services Inc,Crowley Marine Services Inc,United States Of America,Brownsville,United States of America,2020-12-01 00:00:00,2020
+5390682,WILLIAM H. DONNER,"Crane Vessel, non propelled",6423,,1914,United States Of America,,Integrated Shipping LLC,United States Of America,K&KW LLC,K&KW LLC,United States Of America,Brownsville,United States of America,2020-12-01 00:00:00,2020
+7929308,MISSISSIPPI ENTERPRISE,Bulk Carrier,22518,8077,1980,United States Of America,,International Shipholding Corp,United States Of America,US United Ocean Services LLC,United Ocean Services Inc,United States Of America,Aliaga,Turkey,2020-10-01 00:00:00,2020
+8756772,SEVEN POLARIS,Pipe Layer Crane Vessel,16455,29000,1979,Cameroon,Unknown,Marine Environmental,United States Of America,Marine Environmental,Marine Environmental,United States Of America,Aliaga,Turkey,2020-02-01 00:00:00,2020
+7802718,KAUAI,Container Ship (Fully Cellular),25640,14699,1980,United States Of America,,Matson Inc,United States Of America,Matson Navigation Co Inc,Matson Navigation Co Inc,United States Of America,Brownsville,United States of America,2020-05-01 00:00:00,2020
+9254721,KYPROS,Bulk Carrier,31169,8641,2003,St Kitts & Nevis,Liberia,Navios Maritime Holdings Inc,United States Of America,Navios Shipmanagement Inc,Kleimar NV,Belgium,Alang,India,2020-02-01 00:00:00,2020
+8752403,MOON,"Drilling Rig, jack up",5624,7345,1981,Liberia,,Noble Corp,United States Of America,Noble Drilling Holding LLC-CAY,Noble SA Ltd,Cayman Islands,Alang,India,2020-12-01 00:00:00,2020
+8752192,NOBLE DRILLER,"Drilling Rig, semi Submersible",13265,14478,1976,Cameroon,Liberia,Noble Corp,United States Of America,Noble Drilling Services Inc,Frontier Driller KFT,Hungary,Aliaga,Turkey,2020-07-01 00:00:00,2020
+9212046,PORT KLANG,Container Ship (Fully Cellular),14278,6461,2001,Marshall Islands,,Oaktree Capital Management LP,United States Of America,Oman Shipping Co SAOC,OCM Global Trader LLC,Marshall Islands,Gadani,Pakistan,2020-07-01 00:00:00,2020
+8899562,LUCIA,Articulated Pusher Tug,656,,1995,United States Of America,,Penn Maritime Inc,United States Of America,Penn Maritime Inc,Penn Maritime Inc,United States Of America,Brownsville,United States of America,2020-08-01 00:00:00,2020
+9258911,ROBERT H BOH,Platform Supply Ship,3183,,2002,Vanuatu,,Tidewater Inc,United States Of America,Tidex Nigeria Ltd,Jackson Marine LLC,United States Of America,Unknown,Unknown,2020-04-01 00:00:00,2020
+9258923,ART CARLSON,Platform Supply Ship,3183,,2003,Vanuatu,,Tidewater Inc,United States Of America,SOCOPAO,Jackson Marine LLC,United States Of America,Unknown,Unknown,2020-04-01 00:00:00,2020
+9617789,HALAT TIDE,Platform Supply Ship,2899,,2011,Vanuatu,,Tidewater Inc,United States Of America,Tidex Nigeria Ltd,Indigo Fleet Ltd,Cayman Islands,Alang,India,2020-09-01 00:00:00,2020
+9161338,HIGHLAND ROVER,Platform Supply Ship,2186,1628,1998,Cameroon,Malta,Tidewater Inc,United States Of America,Tidewater Marine UK Ltd,GulfMark Malta Ltd,Malta,Aliaga,Turkey,2020-08-01 00:00:00,2020
+9302516,J. HUGH ROFF JR.,Anchor Handling Tug Supply,2223,1724,2005,Vanuatu,,Tidewater Inc,United States Of America,Tidewater Marine LLC,Gulf Fleet Middle East Ltd,Cayman Islands,Alang,India,2020-09-01 00:00:00,2020
+9389459,THOMPSON TIDE,Anchor Handling Tug Supply,2256,1932,2007,Vanuatu,,Tidewater Inc,United States Of America,Tidewater Marine Intl Inc-CAM,Tidewater Properties Ltd,Cayman Islands,Unknown,Unknown,2020-09-01 00:00:00,2020
+9185889,BURCH WILLIAMS,Platform Supply Ship,3069,2360,1999,Vanuatu,,Tidewater Inc,United States Of America,Tidewater Marine LLC,Tidewater Marine Fleet LLC,United States Of America,Alang,India,2020-09-01 00:00:00,2020
+9249491,HIGHLAND COURAGE,Anchor Handling Tug Supply,3160,3448,2002,Cameroon,Cyprus,Tidewater Inc,United States Of America,Tidewater Marine UK Ltd,Tidewater Marine UK Ltd,United Kingdom,Aliaga,Turkey,2020-08-01 00:00:00,2020
+8754140,POLAR PIONEER,"Drilling Rig, semi Submersible",38560,,1985,Marshall Islands,,Transocean Inc,United States Of America,Transocean Offshore Deepwater,Triton Nautilus Asset Leasing,Switzerland,Aliaga,Turkey,2020-09-01 00:00:00,2020
+8754499,TRANSOCEAN ARCTIC,"Drilling Rig, semi Submersible",22194,,1986,Marshall Islands,,Transocean Inc,United States Of America,Transocean Inc,Transocean Offshore Intl-CAY,Cayman Islands,Aliaga,Turkey,2020-10-01 00:00:00,2020
+8755194,TRANSOCEAN 712,"Drilling Rig, semi Submersible",14933,13137,1983,Vanuatu,,Transocean Inc,United States Of America,Transocean Inc,Transocean Drilling UK Ltd,United Kingdom,Aliaga,Turkey,2020-08-01 00:00:00,2020
+8750039,SETINIA,"Drilling Rig, semi Submersible",14883,13423,1982,Marshall Islands,,Transocean Inc,United States Of America,Transocean Inc,Transocean Offshore Intl-CAY,Cayman Islands,Alang,India,2020-01-01 00:00:00,2020
+8755211,SEDCO 711,"Drilling Rig, semi Submersible",14073,14282,1982,Vanuatu,,Transocean Inc,United States Of America,Transocean Inc,Transocean Drilling UK Ltd,United Kingdom,Aliaga,Turkey,2020-08-01 00:00:00,2020
+8755209,SEDCO 714,"Drilling Rig, semi Submersible",15641,14890,1983,Vanuatu,,Transocean Inc,United States Of America,Transocean Inc,Transocean Offshore North Sea,Cayman Islands,Aliaga,Turkey,2020-07-01 00:00:00,2020
+9186792,DISCOVERER ENTERPRISE,Drilling Ship,63190,33500,1998,Marshall Islands,,Transocean Inc,United States Of America,Transocean Inc,Triton Asset Leasing GmbH,Switzerland,Aliaga,Turkey,2020-02-01 00:00:00,2020
+6821614,CAPE GIBSON,General Cargo Ship,16563,,1968,United States Of America,,United States Govt,United States Of America,United States Govt MARAD,United States Govt MARAD,United States Of America,Brownsville,United States of America,2020-10-01 00:00:00,2020
+7034335,CAPE FLORIDA,Barge Carrier,26406,,1971,United States Of America,,United States Govt,United States Of America,United States Govt MARAD,United States Govt MARAD,United States Of America,Brownsville,United States of America,2020-08-01 00:00:00,2020
+5004099,CAPE ALAVA,General Cargo Ship,11580,7380,1962,United States Of America,,United States Govt,United States Of America,United States Govt MARAD,United States Govt MARAD,United States Of America,Brownsville,United States of America,2020-12-01 00:00:00,2020
+9169677,CHALLENGER,Platform Supply Ship,1968,1429,1997,Cameroon,Cyprus,Unknown,Unknown,WOS Worldwide Offshore Support,WOS Worldwide Offshore Support,Cyprus,Aliaga,Turkey,2020-10-01 00:00:00,2020
+9249441,BUGLER,Platform Supply Ship,1992,1545,2002,Cameroon,Cyprus,Unknown,Unknown,WOS Worldwide Offshore Support,WOS Worldwide Offshore Support,Cyprus,Aliaga,Turkey,2020-10-01 00:00:00,2020
+8418253,ALI-B,General Cargo Ship,5451,2462,1985,Comoros,,Unknown,Unknown,Virtu Marine Ltd SA,Anna Maria Maritime SA,Honduras,Alang,India,2020-01-01 00:00:00,2020
+9081265,PROSPERY,Products Tanker,5782,2706,1995,Mongolia,Maldives False,Unknown,Unknown,Prospera Marine International,Prospera Marine International,British Virgin Islands,Chattogram,Bangladesh,2020-11-01 00:00:00,2020
+8805169,MICHELLE HK,Bulk Carrier,36074,10338,1989,Panama,,Unknown,Unknown,Fujian Marine Co Ltd,Jiuzhou Star Investment Ltd,Hong Kong ,Chattogram,Bangladesh,2020-10-01 00:00:00,2020
+6516881,CORMORANT,Diving Support Vessel,2174,,1965,Panama,,Unknwon,Unknwon,Unknwon,Unknwon,Unknwon,Newfoundland,Canada,2020-11-01 00:00:00,2020
+7723986,DALLAS,General Cargo Ship,2978,,1978,Togo,,Unknwon,Unknwon,Golden Sea Shipping Co,Golden Sea Shipping Co,Marshall Islands,Aliaga,Turkey,2020-02-01 00:00:00,2020
+8810968,UPS 1,Products Tanker,1206,695,1988,Panama,,Unknwon,Unknwon,Prime Tankers LLC,Phantom Shipping Inc,Marshall Islands,Gadani,Pakistan,2020-12-01 00:00:00,2020
+7803499,SEA JEWEL I,General Cargo Ship,1934,1200,1978,Tanzania (Zanzibar),,Unknwon,Unknwon,Sea Star Marine Services LLC,Shaheen Shipping Lines Inc,Panama,Gadani,Pakistan,2020-12-01 00:00:00,2020
+7921277,UNIT STAR,Products Tanker ,3653,2020,1980,Tanzania (Zanzibar),,Unknwon,Unknwon,Theqat Al Khaleej Diesel Trdg,Claire Shipping Services Inc,St Kitts & Nevis,Alang,India,2020-11-01 00:00:00,2020
+9249506,VALOUR,Anchor Handling Tug Supply,3160,3448,2003,Cameroon,Cyprus,Unknwon,Unknwon,WOS Worldwide Offshore Support,WOS Worldwide Offshore Support,Cyprus,Aliaga,Turkey,2020-10-01 00:00:00,2020
+9111450,PL,Container Ship (Fully Cellular),9600,5248,1994,Palau,Belize,Unknwon,Unknwon,Ming Jin Shipmgmt Consultant,Po Lun Shipping HK Co Ltd,Hong Kong ,Chattogram,Bangladesh,2020-09-01 00:00:00,2020
+9157131,SETUBA,Container Ship (Fully Cellular),11153,5251,1997,Panama,,Unknwon,Unknwon,Harry Victor Ship Mgmt & Op,Turquoise Sea Inc,Panama,Gadani,Pakistan,2020-08-01 00:00:00,2020
+8412560,EMDEN IV,General Cargo Ship,12963,5496,1987,Togo,,Unknwon,Unknwon,Diamond Maritime DMCC,Emden Shipping Ltd-MAI,Marshall Islands,Gadani,Pakistan,2020-11-01 00:00:00,2020
+9124172,XINA,Bulk Carrier,38367,10300,1995,Palau,Panama,Unknwon,Unknwon,Five Ocean Maritime Serv Co,Jia Xin Shipping Co Ltd,Hong Kong ,Chattogram,Bangladesh,2020-02-01 00:00:00,2020
+9293454,LILA LONDON,Container Ship (Fully Cellular),54519,21592,2005,Panama,,Unknwon,Unknwon,Ocean Network Express Pte Ltd,Stiringaster Line Inc,Panama,Gadani,Pakistan,2020-06-01 00:00:00,2020
+7821013,FEWELL,Products Tanker,2516,2083,1979,Sierra Leone,Uruguay,Fewell SA,Uruguay,Safe Sea Services Sarl,Fewell SA,Uruguay,Alang,India,2020-02-01 00:00:00,2020
+8907589,LIBER,Chemical/Products Tanker,10826,5151,1990,St Kitts & Nevis,Panama,Global Tanker JSC,Vietnam,Allsea DMCC JSC,Global Tanker JSC,Vietnam,Alang,India,2020-10-01 00:00:00,2020
+7923926,AN PHONG,Anchor Handling Tug Supply,1382,1200,1981,Vietnam,,PETROVIETNAM,Vietnam,PetroVietnam Technical Service,PetroVietnam Technical Service,Vietnam,Unknown,Vietnam,2020-12-01 00:00:00,2020
